@@ -1,0 +1,972 @@
+Date,Data Source name,Campaign,Campaign Status,Cost (INR),Clicks,Impressions,CPC (INR),CTR,CPM (INR),Conversions,Conv. Value (INR),Geo Location Segment,Country Funnel,Country
+13-03-2026,XYZ Luxury,Growify | Sales | Shopping | US+Canada | DS,PAUSED,34.463969,2,141,17.231985,0.014184,244.425312,0,0,Rest of the World,Canada,Canada
+14-03-2026,XYZ Luxury,Growify | Sales | Shopping | US+Canada | DS,PAUSED,304.214711,10,111,30.421471,0.09009,2740.673072,0,0,Rest of the World,Canada,Canada
+15-03-2026,XYZ Luxury,Growify | Sales | Shopping | US+Canada | DS,PAUSED,1130.917193,10,231,113.091719,0.04329,4895.745424,0,0,Rest of the World,Canada,Canada
+16-03-2026,XYZ Luxury,Growify | Sales | Shopping | US+Canada | DS,PAUSED,310.104035,4,65,77.526009,0.061538,4770.831308,0,0,Rest of the World,Canada,Canada
+17-03-2026,XYZ Luxury,Growify | Sales | Shopping | US+Canada | DS,PAUSED,47.66,2,283,23.83,0.007067,168.409894,0,0,Rest of the World,Canada,Canada
+18-03-2026,XYZ Luxury,Growify | Sales | Shopping | US+Canada | DS,PAUSED,315.51,7,553,45.072857,0.012658,570.542495,0,0,Rest of the World,Canada,Canada
+21-03-2026,XYZ Luxury,Growify | Sales | Shopping | US+Canada | DS,PAUSED,131.59,2,767,65.795,0.002608,171.564537,0,0,Rest of the World,Canada,Canada
+22-03-2026,XYZ Luxury,Growify | Sales | Shopping | US+Canada | DS,PAUSED,910.919126,18,1128,50.606618,0.015957,807.552417,0,0,Rest of the World,Canada,Canada
+23-03-2026,XYZ Luxury,Growify | Sales | Shopping | US+Canada | DS,PAUSED,347.831167,10,669,34.783117,0.014948,519.927006,0,0,Rest of the World,Canada,Canada
+24-03-2026,XYZ Luxury,Growify | Sales | Shopping | US+Canada | DS,PAUSED,25.26,2,89,12.63,0.022472,283.820225,0,0,Rest of the World,Canada,Canada
+13-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Pmax_India_03-02-2025,PAUSED,72.682209,73,1354,0.995647,0.053914,53.679623,0,0,India,India,India
+14-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Pmax_India_03-02-2025,PAUSED,1898.810482,1230,16740,1.543748,0.073477,113.429539,0,0,India,India,India
+15-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Pmax_India_03-02-2025,PAUSED,5055.800891,1545,28984,3.272363,0.053305,174.434201,0,0,India,India,India
+16-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Pmax_India_03-02-2025,PAUSED,1245.024945,120,3043,10.375208,0.039435,409.143919,0,0,India,India,India
+17-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Pmax_India_03-02-2025,PAUSED,2726.039018,165,6266,16.521449,0.026333,435.052508,0,0,India,India,India
+18-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Pmax_India_03-02-2025,PAUSED,1989.066886,69,2072,28.827056,0.033301,959.974366,0,9.7966,India,India,India
+19-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Pmax_India_03-02-2025,PAUSED,9.375836,0,52,,0,180.304538,0,0,India,India,India
+21-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Pmax_India_03-02-2025,PAUSED,4947.166545,500,26617,9.894333,0.018785,185.864919,0,0,India,India,India
+22-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Pmax_India_03-02-2025,PAUSED,4449.346913,771,42186,5.770878,0.018276,105.469751,0,0,India,India,India
+23-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Pmax_India_03-02-2025,PAUSED,4438.017483,890,41593,4.986536,0.021398,106.701067,0,0,India,India,India
+24-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Pmax_India_03-02-2025,PAUSED,1360.722398,350,17622,3.887778,0.019862,77.217251,0,0,India,India,India
+25-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Pmax_India_03-02-2025,PAUSED,0.79,1,25,0.79,0.04,31.6,0,0,India,India,India
+27-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Pmax_India_03-02-2025,PAUSED,1178.31,202,9297,5.833218,0.021727,126.740884,0,0,India,India,India
+28-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Pmax_India_03-02-2025,PAUSED,1697.1,353,17899,4.807649,0.019722,94.815353,0,0,India,India,India
+29-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Pmax_India_03-02-2025,PAUSED,1460.74,275,16220,5.311782,0.016954,90.057953,0,0,India,India,India
+30-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Pmax_India_03-02-2025,PAUSED,1603.62,266,16828,6.028647,0.015807,95.294747,0.87,1746.1332,India,India,India
+31-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Pmax_India_03-02-2025,PAUSED,998.488182,189,10459,5.283006,0.018071,95.466888,0,0,India,India,India
+27-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Pmax_India_27/03/26,PAUSED,1104.32,401,17756,2.753915,0.022584,62.194188,0,0,India,India,India
+28-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Pmax_India_27/03/26,PAUSED,1476.764597,896,25031,1.648175,0.035796,58.997427,0,0,India,India,India
+29-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Pmax_India_27/03/26,PAUSED,2519.843555,690,37504,3.651947,0.018398,67.188661,0,0,India,India,India
+30-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Pmax_India_27/03/26,PAUSED,1509.534048,472,26769,3.198165,0.017632,56.391126,0,0,India,India,India
+31-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Pmax_India_27/03/26,PAUSED,669.137688,155,9916,4.317017,0.015631,67.480606,0,0,India,India,India
+01-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,0,2,2,0,1,0,0,0,India,India,India
+06-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,97.433475,21,37,4.639689,0.567568,2633.337162,0,0,India,India,India
+07-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,414.235773,38,67,10.900941,0.567164,6182.623478,0,0,India,India,India
+08-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,248.294425,31,50,8.009498,0.62,4965.8885,0,0,India,India,India
+09-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,428.02695,47,67,9.106956,0.701493,6388.46194,0,0,India,India,India
+10-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,410.271546,45,73,9.117145,0.616438,5620.158164,0,0,India,India,India
+11-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,90.001495,45,70,2.000033,0.642857,1285.735643,0,0,India,India,India
+12-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,145.47781,41,75,3.548239,0.546667,1939.704133,0,0,India,India,India
+13-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,103.928013,50,74,2.07856,0.675676,1404.432608,0,0,India,India,India
+14-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,124.166534,22,44,5.643933,0.5,2821.966682,0,0,India,India,India
+15-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,669.027268,32,41,20.907102,0.780488,16317.73824,0,0,India,India,India
+16-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,340.52,40,70,8.513,0.571429,4864.571429,0,0,India,India,India
+17-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,74.964783,27,61,2.776473,0.442623,1228.930869,0,0,India,India,India
+18-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,0.34,1,4,0.34,0.25,85,0,0,India,India,India
+21-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,44.345773,25,35,1.773831,0.714286,1267.022086,0,0,India,India,India
+22-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,245.69,49,63,5.014082,0.777778,3899.84127,1,8369.5,India,India,India
+23-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,73.159048,41,70,1.784367,0.585714,1045.129257,0,0,India,India,India
+24-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,4.93,13,22,0.379231,0.590909,224.090909,0,0,India,India,India
+26-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,70.22,17,26,4.130588,0.653846,2700.769231,0,0,India,India,India
+27-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,191.289356,29,41,6.596185,0.707317,4665.594049,0.04,351.4355,India,India,India
+28-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,424.21695,39,58,10.877358,0.672414,7314.085345,0,0,India,India,India
+29-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,48.373454,28,48,1.727623,0.583333,1007.780292,0,0,India,India,India
+30-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,190.784677,41,70,4.653285,0.585714,2725.495386,0,0,India,India,India
+31-03-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,405.51,58,97,6.991552,0.597938,4180.515464,0,0,India,India,India
+13-03-2026,XYZ Luxury,Growify | Sales | Shopping | US+Canada | DS,PAUSED,2.074435,1,101,2.074435,0.009901,20.53896,0,0,USA,United States,United States
+14-03-2026,XYZ Luxury,Growify | Sales | Shopping | US+Canada | DS,PAUSED,2924.926787,13,347,224.994368,0.037464,8429.183824,0,0,USA,United States,United States
+15-03-2026,XYZ Luxury,Growify | Sales | Shopping | US+Canada | DS,PAUSED,1236.870223,13,328,95.143863,0.039634,3770.945802,0,0,USA,United States,United States
+16-03-2026,XYZ Luxury,Growify | Sales | Shopping | US+Canada | DS,PAUSED,1426.249405,10,188,142.624941,0.053191,7586.433005,0,0,USA,United States,United States
+17-03-2026,XYZ Luxury,Growify | Sales | Shopping | US+Canada | DS,PAUSED,334.97,8,594,41.87125,0.013468,563.922559,0,0,USA,United States,United States
+18-03-2026,XYZ Luxury,Growify | Sales | Shopping | US+Canada | DS,PAUSED,1360.93,15,1066,90.728667,0.014071,1276.669794,0,0,USA,United States,United States
+21-03-2026,XYZ Luxury,Growify | Sales | Shopping | US+Canada | DS,PAUSED,3867.91,42,3644,92.093095,0.011526,1061.446213,0,0,USA,United States,United States
+22-03-2026,XYZ Luxury,Growify | Sales | Shopping | US+Canada | DS,PAUSED,2481.42,45,6234,55.142667,0.007218,398.046198,0,0,USA,United States,United States
+23-03-2026,XYZ Luxury,Growify | Sales | Shopping | US+Canada | DS,PAUSED,1998.274059,48,3938,41.63071,0.012189,507.433738,0,0,USA,United States,United States
+24-03-2026,XYZ Luxury,Growify | Sales | Shopping | US+Canada | DS,PAUSED,94.2,3,429,31.4,0.006993,219.58042,0,0,USA,United States,United States
+25-03-2026,XYZ Luxury,Growify | Sales | Shopping | US+Canada | DS,PAUSED,0,0,1,,0,0,0,0,USA,United States,United States
+19-03-2026,XYZ Luxury,Growify | Sales | Shopping | US+Canada | DS,PAUSED,0,0,2,,0,0,0,0,USA,United States,United States
+21-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,441.23,6,12,73.538333,0.5,36769.16667,0,0,Rest of the World,Australia,Australia
+22-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,1517.04,4,8,379.26,0.5,189630,0,0,Rest of the World,Australia,Australia
+23-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,3.97,3,9,1.323333,0.333333,441.111111,0,0,Rest of the World,Australia,Australia
+24-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,7.86,6,21,1.31,0.285714,374.285714,0,0,Rest of the World,Australia,Australia
+25-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,126.02,6,13,21.003333,0.461538,9693.846154,0,0,Rest of the World,Australia,Australia
+27-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,48.88,8,15,6.11,0.533333,3258.666667,0,0,Rest of the World,Australia,Australia
+28-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,3.93,3,10,1.31,0.3,393,0,0,Rest of the World,Australia,Australia
+29-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,13.08,10,25,1.308,0.4,523.2,0,0,Rest of the World,Australia,Australia
+30-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,108.73,10,27,10.873,0.37037,4027.037037,0,0,Rest of the World,Australia,Australia
+21-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,16.67,4,204,4.1675,0.019608,81.715686,0,0,Rest of the World,Australia,Australia
+22-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,250.913724,4,497,62.728431,0.008048,504.856588,0,0,Rest of the World,Australia,Australia
+23-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,56.126324,4,259,14.031581,0.015444,216.703954,0,0,Rest of the World,Australia,Australia
+24-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,49.56,3,159,16.52,0.018868,311.698113,0,0,Rest of the World,Australia,Australia
+25-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,8.6,2,76,4.3,0.026316,113.157895,0,0,Rest of the World,Australia,Australia
+27-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,358.123839,13,516,27.547988,0.025194,694.038448,0,0,Rest of the World,Australia,Australia
+28-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,48.67,5,198,9.734,0.025253,245.808081,0,0,Rest of the World,Australia,Australia
+29-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,30.954584,3,478,10.318195,0.006276,64.758544,0,0,Rest of the World,Australia,Australia
+30-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,43.94,3,408,14.646667,0.007353,107.696078,0,0,Rest of the World,Australia,Australia
+01-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,15.213875,5,17,3.042775,0.294118,894.933824,1,11000,Rest of the World,Canada,Canada
+02-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,795.178094,5,19,159.035619,0.263158,41851.47863,0,0,Rest of the World,Canada,Canada
+03-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,410.929376,17,42,24.172316,0.404762,9784.032762,2,91766.4,Rest of the World,Canada,Canada
+04-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,397.070473,12,37,33.089206,0.324324,10731.63441,0,0,Rest of the World,Canada,Canada
+05-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,73.893897,11,21,6.717627,0.52381,3518.757,0.5,6325,Rest of the World,Canada,Canada
+06-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,43.057805,12,31,3.58815,0.387097,1388.961452,0,0,Rest of the World,Canada,Canada
+07-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,82.039353,16,33,5.12746,0.484848,2486.041,1.5,37675,Rest of the World,Canada,Canada
+08-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,71.392385,9,26,7.932487,0.346154,2745.860962,0,0,Rest of the World,Canada,Canada
+09-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,104.500543,10,28,10.450054,0.357143,3732.16225,0,0,Rest of the World,Canada,Canada
+10-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,71.995126,12,27,5.999594,0.444444,2666.486148,0,0,Rest of the World,Canada,Canada
+11-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,428.129084,16,39,26.758068,0.410256,10977.66882,0,0,Rest of the World,Canada,Canada
+12-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,803.507706,7,22,114.786815,0.318182,36523.07755,0,0,Rest of the World,Canada,Canada
+13-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,512.983493,17,35,30.1755,0.485714,14656.67123,0,0,Rest of the World,Canada,Canada
+14-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,889.033156,16,51,55.564572,0.313725,17432.02267,1,10300,Rest of the World,Canada,Canada
+15-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,473.832699,18,44,26.324039,0.409091,10768.92498,0,0,Rest of the World,Canada,Canada
+16-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,535.504415,15,50,35.700294,0.3,10710.0883,1,27720,Rest of the World,Canada,Canada
+17-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,387.689164,22,45,17.622235,0.488889,8615.314756,0,0,Rest of the World,Canada,Canada
+18-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,48.19,13,31,3.706923,0.419355,1554.516129,0,0,Rest of the World,Canada,Canada
+19-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,196.166834,12,34,16.347236,0.352941,5769.612765,0,0,Rest of the World,Canada,Canada
+20-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,1034.223988,10,27,103.422399,0.37037,38304.59215,0,0,Rest of the World,Canada,Canada
+21-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,1497.75,8,34,187.21875,0.235294,44051.47059,0,0,Rest of the World,Canada,Canada
+22-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,404.696663,15,50,26.979778,0.3,8093.93326,0,0,Rest of the World,Canada,Canada
+23-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,32.79,7,26,4.684286,0.269231,1261.153846,0,0,Rest of the World,Canada,Canada
+24-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,210.21,10,35,21.021,0.285714,6006,1,13776.2,Rest of the World,Canada,Canada
+25-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,369.73,12,32,30.810833,0.375,11554.0625,0,0,Rest of the World,Canada,Canada
+26-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,36.66,11,31,3.332727,0.354839,1182.580645,0,0,Rest of the World,Canada,Canada
+27-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,544.266569,12,40,45.355547,0.3,13606.66423,0,0,Rest of the World,Canada,Canada
+28-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,222.229773,8,32,27.778722,0.25,6944.680406,0,0,Rest of the World,Canada,Canada
+29-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,323.82,18,41,17.99,0.439024,7898.04878,1,31616,Rest of the World,Canada,Canada
+30-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,170.9,20,54,8.545,0.37037,3164.814815,0,0,Rest of the World,Canada,Canada
+21-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,45.689207,3,227,15.229736,0.013216,201.27404,0,0,Rest of the World,Canada,Canada
+22-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,529.502215,14,491,37.821587,0.028513,1078.415916,0,0,Rest of the World,Canada,Canada
+23-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,142.306876,7,363,20.329554,0.019284,392.029961,0,0,Rest of the World,Canada,Canada
+24-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,16.55,1,204,16.55,0.004902,81.127451,0,0,Rest of the World,Canada,Canada
+25-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,215.916686,6,222,35.986114,0.027027,972.597685,0,0,Rest of the World,Canada,Canada
+26-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,43.741501,3,273,14.5805,0.010989,160.225278,0,0,Rest of the World,Canada,Canada
+27-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,271.493157,10,781,27.149316,0.012804,347.62248,0,0,Rest of the World,Canada,Canada
+28-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,152.289596,8,514,19.0362,0.015564,296.283261,0,0,Rest of the World,Canada,Canada
+29-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,550.750952,20,611,27.537548,0.032733,901.39272,0,0,Rest of the World,Canada,Canada
+30-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,251.63,3,421,83.876667,0.007126,597.695962,0,0,Rest of the World,Canada,Canada
+01-06-2026,XYZ Luxury,Growify | Shopping Ads | All Product | EOSS,PAUSED,569.89,57,4746,9.99807,0.01201,120.07796,0,0,India,India,India
+02-06-2026,XYZ Luxury,Growify | Shopping Ads | All Product | EOSS,PAUSED,1506.82,168,14213,8.969167,0.01182,106.017027,0,0,India,India,India
+03-06-2026,XYZ Luxury,Growify | Shopping Ads | All Product | EOSS,PAUSED,439.63,54,6436,8.141296,0.00839,68.307955,0,0,India,India,India
+04-06-2026,XYZ Luxury,Growify | Shopping Ads | All Product | EOSS,PAUSED,43.71,8,841,5.46375,0.009512,51.973841,0,0,India,India,India
+05-06-2026,XYZ Luxury,Growify | Shopping Ads | All Product | EOSS,PAUSED,5.33,10,468,0.533,0.021368,11.388889,0,0,India,India,India
+06-06-2026,XYZ Luxury,Growify | Shopping Ads | All Product | EOSS,PAUSED,2.97,3,277,0.99,0.01083,10.722022,0,0,India,India,India
+07-06-2026,XYZ Luxury,Growify | Shopping Ads | All Product | EOSS,PAUSED,45.25,9,309,5.027778,0.029126,146.440129,0,0,India,India,India
+08-06-2026,XYZ Luxury,Growify | Shopping Ads | All Product | EOSS,PAUSED,9.25,3,209,3.083333,0.014354,44.258373,0,0,India,India,India
+09-06-2026,XYZ Luxury,Growify | Shopping Ads | All Product | EOSS,PAUSED,38.86,6,570,6.476667,0.010526,68.175439,0,0,India,India,India
+10-06-2026,XYZ Luxury,Growify | Shopping Ads | All Product | EOSS,PAUSED,63.04,16,1033,3.94,0.015489,61.026137,0,0,India,India,India
+11-06-2026,XYZ Luxury,Growify | Shopping Ads | All Product | EOSS,PAUSED,269.93,38,2158,7.103421,0.017609,125.083411,0,0,India,India,India
+12-06-2026,XYZ Luxury,Growify | Shopping Ads | All Product | EOSS,PAUSED,292.66,48,4112,6.097083,0.011673,71.172179,0,0,India,India,India
+13-06-2026,XYZ Luxury,Growify | Shopping Ads | All Product | EOSS,PAUSED,999.85,79,5527,12.656329,0.014293,180.902841,0,0,India,India,India
+14-06-2026,XYZ Luxury,Growify | Shopping Ads | All Product | EOSS,PAUSED,720.74,89,5382,8.098202,0.016537,133.91676,0,0,India,India,India
+15-06-2026,XYZ Luxury,Growify | Shopping Ads | All Product | EOSS,PAUSED,999.97,69,5424,14.492319,0.012721,184.360251,0,0,India,India,India
+16-06-2026,XYZ Luxury,Growify | Shopping Ads | All Product | EOSS,PAUSED,999.98,136,9144,7.352794,0.014873,109.359143,0.03,128.71188,India,India,India
+17-06-2026,XYZ Luxury,Growify | Shopping Ads | All Product | EOSS,PAUSED,693.13,112,6873,6.188661,0.016296,100.848247,0,0,India,India,India
+18-06-2026,XYZ Luxury,Growify | Shopping Ads | All Product | EOSS,PAUSED,999.99,126,7505,7.936429,0.016789,133.243171,1,8700,India,India,India
+19-06-2026,XYZ Luxury,Growify | Shopping Ads | All Product | EOSS,PAUSED,999.83,87,5233,11.492299,0.016625,191.062488,0,0,India,India,India
+20-06-2026,XYZ Luxury,Growify | Shopping Ads | All Product | EOSS,PAUSED,999.1,36,1840,27.752778,0.019565,542.98913,0,0,India,India,India
+01-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,328.607359,25,117,13.144294,0.213675,2808.609906,0.2,1550.59146,India,India,India
+02-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,581.473342,44,169,13.215303,0.260355,3440.670663,0,0,India,India,India
+03-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,673.046684,63,251,10.683281,0.250996,2681.460892,0,0,India,India,India
+04-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,447.021381,51,161,8.765125,0.31677,2776.530317,0,0,India,India,India
+05-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,865.297302,61,147,14.185202,0.414966,5886.376204,1,13270,India,India,India
+06-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,523.000706,67,144,7.805981,0.465278,3631.949347,1,5610,India,India,India
+07-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,805.753608,67,143,12.026173,0.468531,5634.640615,0.8,6357.69094,India,India,India
+08-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,194.237463,44,196,4.414488,0.22449,991.007464,0,0,India,India,India
+09-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,1234.04464,90,392,13.711607,0.229592,3148.073061,0,0,India,India,India
+10-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,1030.940096,45,264,22.90978,0.170455,3905.076121,0,0,India,India,India
+11-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,189.338428,53,125,3.572423,0.424,1514.707424,0,0,India,India,India
+12-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,607.934973,62,146,9.805403,0.424658,4163.938171,0,0,India,India,India
+13-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,163.264253,49,119,3.331924,0.411765,1371.968513,1,8731.84,India,India,India
+14-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,201.484718,52,109,3.874706,0.477064,1848.483651,1,16570,India,India,India
+15-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,562.427799,61,125,9.220128,0.488,4499.422392,1,55440,India,India,India
+16-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,663.008463,84,143,7.892958,0.587413,4636.422818,0,0,India,India,India
+17-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,616.928198,90,194,6.854758,0.463918,3180.042258,1,9700,India,India,India
+18-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,331.875319,69,179,4.809787,0.385475,1854.052061,0,0,India,India,India
+19-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,317.432641,69,196,4.600473,0.352041,1619.554291,0.4,1320.22869,India,India,India
+20-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,590.37273,76,184,7.768062,0.413043,3208.547446,0,0,India,India,India
+21-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,314.672825,81,163,3.88485,0.496933,1930.508129,0,0,India,India,India
+22-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,938.340875,97,185,9.673617,0.524324,5072.112838,1,2200,India,India,India
+23-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,717.017528,88,154,8.147926,0.571429,4655.957974,1,3400,India,India,India
+24-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,452.419584,75,141,6.032261,0.531915,3208.649532,1,15250,India,India,India
+25-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,283.043159,32,52,8.845099,0.615385,5443.137673,0,0,India,India,India
+26-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,472.168995,88,156,5.365557,0.564103,3026.724327,0,0,India,India,India
+27-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,797.446041,111,172,7.184199,0.645349,4636.314192,2,24797.95,India,India,India
+28-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,528.630818,81,159,6.526306,0.509434,3324.722126,1,27790,India,India,India
+29-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,434.209475,95,161,4.570626,0.590062,2696.953261,1,64090,India,India,India
+30-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,498.399497,75,161,6.645327,0.465839,3095.64905,1,21190.03052,India,India,India
+01-06-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,1040.059,103,6239,10.09766,0.016509,166.702837,0,0,India,India,India
+02-06-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,2328.956806,137,12220,16.999685,0.011211,190.585663,0,0,India,India,India
+03-06-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,1005.137646,97,8911,10.362244,0.010885,112.797402,0,0,India,India,India
+04-06-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,1013.982498,98,9634,10.34676,0.010172,105.250415,0,0,India,India,India
+05-06-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,796.720666,92,7977,8.660007,0.011533,99.87723,0,0,India,India,India
+06-06-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,1350.718168,51,3750,26.48467,0.0136,360.191511,0,0,India,India,India
+07-06-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,992.305385,45,5428,22.051231,0.00829,182.812341,0,0,India,India,India
+08-06-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,1016.396257,73,5939,13.923236,0.012292,171.139292,0,0,India,India,India
+09-06-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,863.474647,45,3464,19.188325,0.012991,249.270972,0.62,3109.114166,India,India,India
+10-06-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,709.990253,37,3195,19.188926,0.011581,222.219172,0,0,India,India,India
+11-06-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,99.712713,12,520,8.309393,0.023077,191.755217,0,0,India,India,India
+12-06-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,1302.228858,112,6527,11.627043,0.017159,199.51415,2.47,9974.6524,India,India,India
+13-06-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,815.186691,101,6553,8.071155,0.015413,124.399007,0,0,India,India,India
+14-06-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,649.001082,64,4227,10.140642,0.015141,153.537043,0,0,India,India,India
+15-06-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,818.249331,97,5569,8.43556,0.017418,146.929311,0.75,24502.10796,India,India,India
+16-06-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,432.944897,64,6240,6.764764,0.010256,69.382195,0.25,8167.66335,India,India,India
+17-06-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,847.590729,95,6970,8.922008,0.01363,121.605557,0,0,India,India,India
+18-06-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,563.609604,66,5252,8.539539,0.012567,107.313329,0.01,53.70948,India,India,India
+19-06-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,709.924265,108,8180,6.573373,0.013203,86.787807,0,0,India,India,India
+20-06-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,982.470188,126,7472,7.797382,0.016863,131.48691,0,0,India,India,India
+21-06-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,706.941816,133,7227,5.315352,0.018403,97.81954,2,11296.6,India,India,India
+22-06-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,668.614055,106,5594,6.30768,0.018949,119.523428,0,0,India,India,India
+23-06-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,616.647857,58,3441,10.63186,0.016856,179.206003,0,0,India,India,India
+24-06-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,808.213696,138,7695,5.856621,0.017934,105.03102,0,0,India,India,India
+25-06-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,184.766505,31,1685,5.96021,0.018398,109.653712,0,0,India,India,India
+26-06-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,479.991743,81,4698,5.925824,0.017241,102.169379,0,0,India,India,India
+27-06-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,1231.935516,245,12134,5.028308,0.020191,101.527568,1,14675,India,India,India
+28-06-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,494.03149,85,4370,5.812135,0.019451,113.050684,0,0,India,India,India
+29-06-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,870.809103,133,8180,6.547437,0.016259,106.455881,1.94,5710.17944,India,India,India
+30-06-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,708.590846,106,5548,6.684819,0.019106,127.720052,0,0,India,India,India
+20-06-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,662.920099,154,6469,4.304676,0.023806,102.476441,0,0,India,India,India
+21-06-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,1409.098214,215,11507,6.553945,0.018684,122.455741,0,0,India,India,India
+22-06-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,1027.385589,159,7461,6.461545,0.021311,137.700789,0,0,India,India,India
+23-06-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,1006.037574,252,12025,3.992213,0.020956,83.662168,1,2805,India,India,India
+24-06-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,968.260278,230,11866,4.209827,0.019383,81.599551,0,0,India,India,India
+25-06-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,448.515192,54,2504,8.305837,0.021565,179.119486,0,0,India,India,India
+26-06-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,864.656805,155,9031,5.578431,0.017163,95.743196,0,0,India,India,India
+27-06-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,1665.380225,235,11692,7.086724,0.020099,142.437583,0,0,India,India,India
+28-06-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,920.521078,235,12367,3.917111,0.019002,74.43366,1.33,3472.85808,India,India,India
+29-06-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,953.618612,202,12258,4.720884,0.016479,77.795612,0,0,India,India,India
+30-06-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,1014.357696,249,12876,4.073726,0.019338,78.778945,0,0,India,India,India
+20-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,1.25,1,14,1.25,0.071429,89.285714,0,0,Rest of the World,United Kingdom,United Kingdom
+21-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,2.84,3,6,0.946667,0.5,473.333333,0,0,Rest of the World,United Kingdom,United Kingdom
+22-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,23.73,2,8,11.865,0.25,2966.25,0,0,Rest of the World,United Kingdom,United Kingdom
+23-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,17.54,1,4,17.54,0.25,4385,0,0,Rest of the World,United Kingdom,United Kingdom
+24-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,1292.998381,5,19,258.599676,0.263158,68052.54637,0,0,Rest of the World,United Kingdom,United Kingdom
+25-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,2.5,2,4,1.25,0.5,625,0,0,Rest of the World,United Kingdom,United Kingdom
+26-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,228.22,2,6,114.11,0.333333,38036.66667,0,0,Rest of the World,United Kingdom,United Kingdom
+28-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,163.26,3,6,54.42,0.5,27210,0,0,Rest of the World,United Kingdom,United Kingdom
+29-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,67.17,2,7,33.585,0.285714,9595.714286,0,0,Rest of the World,United Kingdom,United Kingdom
+30-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,1.26,1,5,1.26,0.2,252,0,0,Rest of the World,United Kingdom,United Kingdom
+20-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,4.81,1,74,4.81,0.013514,65,0,0,Rest of the World,United Kingdom,United Kingdom
+21-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,44.53,4,382,11.1325,0.010471,116.570681,0,0,Rest of the World,United Kingdom,United Kingdom
+22-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,180.891912,6,370,30.148652,0.016216,488.897059,0,0,Rest of the World,United Kingdom,United Kingdom
+23-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,247.1936,6,393,41.198933,0.015267,628.991349,0,0,Rest of the World,United Kingdom,United Kingdom
+24-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,97.31,2,234,48.655,0.008547,415.854701,0,0,Rest of the World,United Kingdom,United Kingdom
+26-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,41.53,1,164,41.53,0.006098,253.231707,0,0,Rest of the World,United Kingdom,United Kingdom
+27-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,31.12438,2,444,15.56219,0.004505,70.099955,0,0,Rest of the World,United Kingdom,United Kingdom
+28-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,53.94055,4,365,13.485138,0.010959,147.782329,0,0,Rest of the World,United Kingdom,United Kingdom
+29-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,170.360117,10,688,17.036012,0.014535,247.616449,0,0,Rest of the World,United Kingdom,United Kingdom
+30-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,90.35,7,606,12.907143,0.011551,149.092409,0,0,Rest of the World,United Kingdom,United Kingdom
+01-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,4.900865,4,11,1.225216,0.363636,445.533182,0,0,USA,United States,United States
+02-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,54.748553,3,6,18.249518,0.5,9124.758833,0,0,USA,United States,United States
+03-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,526.251739,10,22,52.625174,0.454545,23920.53359,0,0,USA,United States,United States
+04-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,69.545578,8,23,8.693197,0.347826,3023.720783,0,0,USA,United States,United States
+05-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,58.770801,8,20,7.34635,0.4,2938.54005,0,0,USA,United States,United States
+06-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,165.200739,7,19,23.600106,0.368421,8694.775737,0,0,USA,United States,United States
+07-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,581.05,1,5,581.05,0.2,116210,0.5,4969.8,USA,United States,United States
+08-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,1156.957257,10,24,115.695726,0.416667,48206.55238,0.5,4969.8,USA,United States,United States
+09-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,376.401844,7,18,53.771692,0.388889,20911.21356,1,41052,USA,United States,United States
+10-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,277.279554,9,20,30.808839,0.45,13863.9777,0,0,USA,United States,United States
+11-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,132.555126,5,12,26.511025,0.416667,11046.2605,1,45408,USA,United States,United States
+12-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,46.452563,5,14,9.290513,0.357143,3318.040214,0,0,USA,United States,United States
+13-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,440.891277,7,19,62.984468,0.368421,23204.80405,0,0,USA,United States,United States
+14-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,1800.51,4,14,450.1275,0.285714,128607.8571,0,0,USA,United States,United States
+15-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,168.631125,7,16,24.090161,0.4375,10539.44531,0,0,USA,United States,United States
+16-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,111.78,7,14,15.968571,0.5,7984.285714,0,0,USA,United States,United States
+17-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,68.11,6,26,11.351667,0.230769,2619.615385,0,0,USA,United States,United States
+18-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,133.26,9,32,14.806667,0.28125,4164.375,0,0,USA,United States,United States
+19-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,93.45,10,42,9.345,0.238095,2225,0,0,USA,United States,United States
+20-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,6.65,7,24,0.95,0.291667,277.083333,0,0,USA,United States,United States
+21-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,620.763313,13,43,47.751024,0.302326,14436.35612,0,0,USA,United States,United States
+22-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,765.02,5,20,153.004,0.25,38251,0,0,USA,United States,United States
+23-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,208.534809,11,43,18.95771,0.255814,4849.646721,0,0,USA,United States,United States
+24-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,54.93,7,26,7.847143,0.269231,2112.692308,0,0,USA,United States,United States
+25-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,160.01,8,35,20.00125,0.228571,4571.714286,0,0,USA,United States,United States
+26-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,2.85,3,19,0.95,0.157895,150,0,0,USA,United States,United States
+27-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,7.16,8,26,0.895,0.307692,275.384615,0,0,USA,United States,United States
+28-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,2039.13,7,47,291.304286,0.148936,43385.74468,0,0,USA,United States,United States
+29-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,25.5554,11,46,2.323218,0.23913,555.552174,1,17870,USA,United States,United States
+30-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,142.8,9,33,15.866667,0.272727,4327.272727,0,0,USA,United States,United States
+20-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,77.56,1,60,77.56,0.016667,1292.666667,0,0,USA,United States,United States
+21-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,339.18,9,917,37.686667,0.009815,369.880044,0,0,USA,United States,United States
+22-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,1035.98584,17,1248,60.940344,0.013622,830.116859,0,0,USA,United States,United States
+23-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,922.821472,26,1306,35.493134,0.019908,706.601433,0,0,USA,United States,United States
+24-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,1139.859829,20,736,56.992991,0.027174,1548.722594,0,0,USA,United States,United States
+25-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,292.997184,8,977,36.624648,0.008188,299.894764,0,0,USA,United States,United States
+26-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,205.906751,7,537,29.41525,0.013035,383.439015,0,0,USA,United States,United States
+27-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,1276.814225,21,1549,60.800677,0.013557,824.282908,0,0,USA,United States,United States
+28-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,697.675784,17,1135,41.039752,0.014978,614.692321,1,23100,USA,United States,United States
+29-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,482.329658,13,1361,37.102281,0.009552,354.393577,0,0,USA,United States,United States
+30-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,456.76,19,1302,24.04,0.014593,350.814132,0,0,USA,United States,United States
+26-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,0,0,86,,0,0,0,0,Rest of the World,Australia,Australia
+20-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,0,0,14,,0,0,0,0,Rest of the World,Canada,Canada
+20-06-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,0,0,4,,0,0,0,0,Rest of the World,Australia,Australia
+20-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,0,0,12,,0,0,0,0,Rest of the World,Australia,Australia
+25-06-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,0,0,82,,0,0,0,0,Rest of the World,United Kingdom,United Kingdom
+05-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,337.76,3,6,112.586667,0.5,56293.33333,1,20500,Rest of the World,Australia,Australia
+06-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,125.55,2,5,62.775,0.4,25110,0,0,Rest of the World,Australia,Australia
+07-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,10.72,1,1,10.72,1,10720,0,0,Rest of the World,Australia,Australia
+08-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,2.7,2,7,1.35,0.285714,385.714286,0,0,Rest of the World,Australia,Australia
+09-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,0.120496,1,5,0.120496,0.2,24.0992,0,0,Rest of the World,Australia,Australia
+10-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,243.53,2,8,121.765,0.25,30441.25,0,0,Rest of the World,Australia,Australia
+11-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,8.08,1,3,8.08,0.333333,2693.333333,0,0,Rest of the World,Australia,Australia
+13-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,2.7,2,5,1.35,0.4,540,0,0,Rest of the World,Australia,Australia
+14-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,95.844866,6,19,15.974144,0.315789,5044.466632,0,0,Rest of the World,Australia,Australia
+15-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,180.55,6,13,30.091667,0.461538,13888.46154,0,0,Rest of the World,Australia,Australia
+16-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,2.72,2,10,1.36,0.2,272,0,0,Rest of the World,Australia,Australia
+17-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,10.84,1,10,10.84,0.1,1084,0,0,Rest of the World,Australia,Australia
+18-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,442.92,2,6,221.46,0.333333,73820,0,0,Rest of the World,Australia,Australia
+19-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,69.15,4,13,17.2875,0.307692,5319.230769,0,0,Rest of the World,Australia,Australia
+21-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,129.35,1,1,129.35,1,129350,0,0,Rest of the World,Australia,Australia
+22-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,368.56,2,6,184.28,0.333333,61426.66667,0,0,Rest of the World,Australia,Australia
+23-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,16.48,2,11,8.24,0.181818,1498.181818,0,0,Rest of the World,Australia,Australia
+24-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,18.54,2,6,9.27,0.333333,3090,0,0,Rest of the World,Australia,Australia
+25-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,1.37,1,4,1.37,0.25,342.5,0,0,Rest of the World,Australia,Australia
+26-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,24.515468,1,6,24.515468,0.166667,4085.911333,0,0,Rest of the World,Australia,Australia
+27-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,95.2,4,9,23.8,0.444444,10577.77778,0,0,Rest of the World,Australia,Australia
+05-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,4.83,1,94,4.83,0.010638,51.382979,0,0,Rest of the World,Australia,Australia
+06-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,53.34,3,140,17.78,0.021429,381,0,0,Rest of the World,Australia,Australia
+07-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,108.18,5,107,21.636,0.046729,1011.028037,0,0,Rest of the World,Australia,Australia
+08-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,4.82,1,132,4.82,0.007576,36.515152,0,0,Rest of the World,Australia,Australia
+09-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,44.5,2,146,22.25,0.013699,304.794521,0,0,Rest of the World,Australia,Australia
+10-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,99.03,4,188,24.7575,0.021277,526.755319,0,0,Rest of the World,Australia,Australia
+11-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,21.67,2,126,10.835,0.015873,171.984127,0,0,Rest of the World,Australia,Australia
+14-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,13.66,1,69,13.66,0.014493,197.971014,0,0,Rest of the World,Australia,Australia
+16-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,16.536329,1,72,16.536329,0.013889,229.671236,0,0,Rest of the World,Australia,Australia
+17-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,59.149804,4,87,14.787451,0.045977,679.882805,0,0,Rest of the World,Australia,Australia
+18-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,22.32,3,143,7.44,0.020979,156.083916,0,0,Rest of the World,Australia,Australia
+19-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,63.288014,5,514,12.657603,0.009728,123.128432,0,0,Rest of the World,Australia,Australia
+20-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,437.371614,6,268,72.895269,0.022388,1631.983634,0,0,Rest of the World,Australia,Australia
+21-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,202.437522,3,134,67.479174,0.022388,1510.727776,0,0,Rest of the World,Australia,Australia
+22-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,143.176349,6,165,23.862725,0.036364,867.735448,0,0,Rest of the World,Australia,Australia
+23-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,191.307668,4,337,47.826917,0.011869,567.67854,0,0,Rest of the World,Australia,Australia
+26-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,9,1,62,9,0.016129,145.16129,0,0,Rest of the World,Australia,Australia
+05-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,34.540442,4,14,8.635111,0.285714,2467.174429,0,0,Rest of the World,Canada,Canada
+06-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,50.94,7,21,7.277143,0.333333,2425.714286,0,0,Rest of the World,Canada,Canada
+07-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,3.4,2,7,1.7,0.285714,485.714286,0,0,Rest of the World,Canada,Canada
+08-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,133.93,11,31,12.175455,0.354839,4320.322581,0,0,Rest of the World,Canada,Canada
+09-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,165.713025,10,25,16.571302,0.4,6628.521,0,0,Rest of the World,Canada,Canada
+10-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,227.69,15,39,15.179333,0.384615,5838.205128,0,0,Rest of the World,Canada,Canada
+11-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,215.048472,15,33,14.336565,0.454545,6516.620364,0,0,Rest of the World,Canada,Canada
+12-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,105.039491,10,21,10.503949,0.47619,5001.880524,0,0,Rest of the World,Canada,Canada
+13-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,44.49,4,10,11.1225,0.4,4449,0,0,Rest of the World,Canada,Canada
+14-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,640.888202,17,34,37.699306,0.5,18849.653,0,0,Rest of the World,Canada,Canada
+15-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,104.55,9,25,11.616667,0.36,4182,0,0,Rest of the World,Canada,Canada
+16-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,177.575961,6,17,29.595994,0.352941,10445.64477,0,0,Rest of the World,Canada,Canada
+17-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,563.085961,10,27,56.308596,0.37037,20855.03559,0,0,Rest of the World,Canada,Canada
+18-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,318.38,9,21,35.375556,0.428571,15160.95238,0,0,Rest of the World,Canada,Canada
+19-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,232.87,10,31,23.287,0.322581,7511.935484,0,0,Rest of the World,Canada,Canada
+20-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,183.82,7,22,26.26,0.318182,8355.454545,0,0,Rest of the World,Canada,Canada
+21-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,47.91,2,7,23.955,0.285714,6844.285714,0,0,Rest of the World,Canada,Canada
+22-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,21.61,6,10,3.601667,0.6,2161,0,0,Rest of the World,Canada,Canada
+23-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,107.85,6,20,17.975,0.3,5392.5,0,0,Rest of the World,Canada,Canada
+24-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,70.031318,10,31,7.003132,0.322581,2259.074774,0,0,Rest of the World,Canada,Canada
+25-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,2.78,2,5,1.39,0.4,556,0,0,Rest of the World,Canada,Canada
+26-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,5.52,4,7,1.38,0.571429,788.571429,0,0,Rest of the World,Canada,Canada
+27-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,1.38,1,2,1.38,0.5,690,0,0,Rest of the World,Canada,Canada
+06-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,70.462142,2,114,35.231071,0.017544,618.088965,0,0,Rest of the World,Canada,Canada
+07-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,110.039281,1,76,110.039281,0.013158,1447.885276,0,0,Rest of the World,Canada,Canada
+08-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,66.980101,2,185,33.490051,0.010811,362.0546,0,0,Rest of the World,Canada,Canada
+09-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,122.839306,4,229,30.709827,0.017467,536.416183,0,0,Rest of the World,Canada,Canada
+10-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,54.31,3,180,18.103333,0.016667,301.722222,0,0,Rest of the World,Canada,Canada
+11-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,34.54,3,174,11.513333,0.017241,198.505747,0,0,Rest of the World,Canada,Canada
+12-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,0.01,1,61,0.01,0.016393,0.163934,0,0,Rest of the World,Canada,Canada
+13-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,18.14,2,49,9.07,0.040816,370.204082,0,0,Rest of the World,Canada,Canada
+14-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,21.48,1,79,21.48,0.012658,271.898734,0,0,Rest of the World,Canada,Canada
+15-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,4.08,1,47,4.08,0.021277,86.808511,0,0,Rest of the World,Canada,Canada
+17-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,1.556013,2,83,0.778007,0.024096,18.747145,0,0,Rest of the World,Canada,Canada
+18-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,29.242907,1,115,29.242907,0.008696,254.286148,0,0,Rest of the World,Canada,Canada
+19-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,117.020605,6,461,19.503434,0.013015,253.840792,0,0,Rest of the World,Canada,Canada
+20-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,295.148674,5,296,59.029735,0.016892,997.123899,0,0,Rest of the World,Canada,Canada
+21-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,115.537242,3,162,38.512414,0.018519,713.192852,0,0,Rest of the World,Canada,Canada
+22-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,83.979039,5,66,16.795808,0.075758,1272.409682,0,0,Rest of the World,Canada,Canada
+23-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,71.27972,4,123,17.81993,0.03252,579.509919,0,0,Rest of the World,Canada,Canada
+24-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,135.09977,8,90,16.887471,0.088889,1501.108556,0,0,Rest of the World,Canada,Canada
+25-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,498.32129,9,79,55.369032,0.113924,6307.86443,0,0,Rest of the World,Canada,Canada
+26-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,15.85,4,25,3.9625,0.16,634,0,0,Rest of the World,Canada,Canada
+05-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,331.582098,45,88,7.368491,0.511364,3767.978386,0,0,India,India,India
+06-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,387.322255,64,122,6.05191,0.52459,3174.772582,0,0,India,India,India
+07-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,421.189749,75,155,5.615863,0.483871,2717.353219,1,7914.1,India,India,India
+08-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,1192.510177,83,159,14.367592,0.522013,7500.064006,0,0.0448,India,India,India
+09-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,1053.206254,88,139,11.968253,0.633094,7577.02341,1,17880.1,India,India,India
+10-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,652.043343,58,104,11.242127,0.557692,6269.647529,0,0,India,India,India
+11-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,818.503185,58,94,14.112124,0.617021,8707.480691,0,0,India,India,India
+12-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,938.592603,42,78,22.347443,0.538462,12033.2385,1,5320,India,India,India
+13-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,436.924048,55,118,7.944074,0.466102,3702.746169,0,0,India,India,India
+14-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,398.600621,58,128,6.872425,0.453125,3114.067352,0,0,India,India,India
+15-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,1288.196539,92,191,14.002136,0.481675,6744.484497,1,3400,India,India,India
+16-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,366.179258,67,179,5.465362,0.374302,2045.694179,1,1500,India,India,India
+17-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,430.232634,73,179,5.893598,0.407821,2403.534268,0,0,India,India,India
+18-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,1005.60874,82,147,12.263521,0.557823,6840.875782,0,0,India,India,India
+19-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,1114.945075,90,231,12.388279,0.38961,4826.602056,2,12040,India,India,India
+20-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,253.672165,64,152,3.963628,0.421053,1668.895822,1,4999,India,India,India
+21-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,151.353488,38,103,3.982987,0.368932,1469.45134,0,0,India,India,India
+22-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,798.382813,63,136,12.672743,0.463235,5870.46186,0,0,India,India,India
+23-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,591.480174,80,206,7.393502,0.38835,2871.262981,1,5320,India,India,India
+24-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,414.822637,59,128,7.030892,0.460938,3240.801852,0,0,India,India,India
+25-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,338.918279,67,167,5.058482,0.401198,2029.450772,0,0,India,India,India
+26-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,274.681032,58,185,4.73588,0.313514,1484.762335,0,0,India,India,India
+27-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,261.145327,33,96,7.913495,0.34375,2720.263823,0,0,India,India,India
+04-08-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,0.027801,0,2,,0,13.9005,0,0,India,India,India
+05-08-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,950.67281,212,7004,4.484306,0.030268,135.73284,0,0,India,India,India
+06-08-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,951.17633,159,6980,5.982241,0.022779,136.271681,0,0,India,India,India
+07-08-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,983.026744,232,8309,4.237184,0.027922,118.308671,0.1,357.26823,India,India,India
+08-08-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,1006.045322,240,8437,4.191856,0.028446,119.242067,0.25,750,India,India,India
+09-08-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,762.889453,136,5402,5.609481,0.025176,141.22352,0,0,India,India,India
+10-08-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,498.081217,81,3784,6.149151,0.021406,131.628229,0,0,India,India,India
+11-08-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,1009.559846,34,1158,29.692937,0.029361,871.813339,0,0,India,India,India
+12-08-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,164.733589,37,1312,4.452259,0.028201,125.559138,1,9085.92,India,India,India
+13-08-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,331.457389,57,3361,5.815042,0.016959,98.618682,0,0,India,India,India
+14-08-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,592.620989,98,3771,6.047153,0.025988,157.152211,1.96,9355.2174,India,India,India
+15-08-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,422.852082,58,2263,7.290553,0.02563,186.854654,1.19,4637.65302,India,India,India
+16-08-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,547.338601,48,1720,11.402888,0.027907,318.220117,0.47,3516.8325,India,India,India
+17-08-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,445.663987,70,3425,6.366628,0.020438,130.120872,1,5940,India,India,India
+18-08-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,407.95147,59,3008,6.914432,0.019614,135.622164,0,0,India,India,India
+19-08-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,484.404667,61,2070,7.94106,0.029469,234.011916,0,0,India,India,India
+20-08-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,495.392584,100,3077,4.953926,0.032499,160.998565,0,0,India,India,India
+21-08-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,518.024643,104,3378,4.981006,0.030787,153.35247,0,0,India,India,India
+22-08-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,483.290978,74,3183,6.530959,0.023249,151.835054,0,0,India,India,India
+23-08-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,529.358434,32,811,16.542451,0.039457,652.7231,0,0,India,India,India
+24-08-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,325.268316,98,3853,3.319064,0.025435,84.419495,0,0,India,India,India
+25-08-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,278.863773,55,2383,5.07025,0.02308,117.022146,0,0,India,India,India
+26-08-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,299.075302,55,2861,5.437733,0.019224,104.535233,1,9174,India,India,India
+27-08-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,220.662175,46,1508,4.797004,0.030504,146.327702,0,0,India,India,India
+05-08-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,999.215236,237,10674,4.216098,0.022203,93.61207,0,0,India,India,India
+06-08-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,898.684651,250,11871,3.594739,0.02106,75.704208,0,0,India,India,India
+07-08-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,849.326074,317,13436,2.679262,0.023593,63.212718,1.5,23499.956,India,India,India
+08-08-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,874.173801,386,16238,2.264699,0.023771,53.835066,0.25,750,India,India,India
+09-08-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,905.302647,365,18862,2.480281,0.019351,47.996111,0.01,36.88344,India,India,India
+10-08-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,544.838017,188,7747,2.898075,0.024267,70.328904,1,11114.1,India,India,India
+11-08-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,426.432708,173,7894,2.464929,0.021915,54.019852,1,6000,India,India,India
+12-08-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,191.506754,107,5224,1.789783,0.020482,36.659026,0,0,India,India,India
+13-08-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,791.169947,262,15235,3.019733,0.017197,51.931076,0,0,India,India,India
+14-08-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,533.806083,185,10123,2.885438,0.018275,52.732005,0,0,India,India,India
+15-08-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,563.518698,214,10037,2.633265,0.021321,56.144136,0,0,India,India,India
+16-08-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,526.298292,164,7396,3.209136,0.022174,71.159856,0.47,3516.8475,India,India,India
+17-08-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,486.084324,212,10372,2.292851,0.02044,46.865052,1,3960,India,India,India
+18-08-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,460.885361,154,6538,2.992762,0.023555,70.493325,0,0,India,India,India
+19-08-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,587.64271,226,9106,2.600189,0.024819,64.533572,0,0,India,India,India
+20-08-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,435.438367,226,8852,1.926718,0.025531,49.190959,0,0,India,India,India
+21-08-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,422.845041,188,7799,2.249176,0.024106,54.217854,0,0,India,India,India
+22-08-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,340.39269,175,6749,1.945101,0.02593,50.436019,0,0,India,India,India
+23-08-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,696.406178,325,14417,2.142788,0.022543,48.304514,1,4999,India,India,India
+24-08-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,394.676552,222,8761,1.777822,0.02534,45.049258,0.61,2200.92708,India,India,India
+25-08-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,370.37862,206,7743,1.797954,0.026605,47.833995,0,0,India,India,India
+26-08-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,634.919295,243,10395,2.612837,0.023377,61.079297,0,0,India,India,India
+27-08-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,355.772309,107,5724,3.324975,0.018693,62.154491,0,0,India,India,India
+05-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,1.29,1,4,1.29,0.25,322.5,0,0,Rest of the World,United Kingdom,United Kingdom
+06-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,267.93,5,9,53.586,0.555556,29770,0,0,Rest of the World,United Kingdom,United Kingdom
+07-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,2.58,2,7,1.29,0.285714,368.571429,0,0,Rest of the World,United Kingdom,United Kingdom
+08-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,2.58,2,3,1.29,0.666667,860,0,0,Rest of the World,United Kingdom,United Kingdom
+09-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,132.34,6,11,22.056667,0.545455,12030.90909,0,0,Rest of the World,United Kingdom,United Kingdom
+10-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,200.75,4,8,50.1875,0.5,25093.75,0,0,Rest of the World,United Kingdom,United Kingdom
+11-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,471.77,3,10,157.256667,0.3,47177,0,0,Rest of the World,United Kingdom,United Kingdom
+12-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,69.59,3,8,23.196667,0.375,8698.75,0,0,Rest of the World,United Kingdom,United Kingdom
+13-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,2.58,2,6,1.29,0.333333,430,0,0,Rest of the World,United Kingdom,United Kingdom
+14-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,139.15,3,8,46.383333,0.375,17393.75,0,0,Rest of the World,United Kingdom,United Kingdom
+15-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,155.094514,4,9,38.773629,0.444444,17232.72378,0,0,Rest of the World,United Kingdom,United Kingdom
+16-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,67.743273,3,14,22.581091,0.214286,4838.805214,0,0,Rest of the World,United Kingdom,United Kingdom
+17-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,197.11,3,8,65.703333,0.375,24638.75,0,0,Rest of the World,United Kingdom,United Kingdom
+18-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,100.97,4,7,25.2425,0.571429,14424.28571,0,0,Rest of the World,United Kingdom,United Kingdom
+19-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,6.5,2,7,3.25,0.285714,928.571429,0,0,Rest of the World,United Kingdom,United Kingdom
+20-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,32.59,2,6,16.295,0.333333,5431.666667,0,0,Rest of the World,United Kingdom,United Kingdom
+22-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,160.72,2,14,80.36,0.142857,11480,0,0,Rest of the World,United Kingdom,United Kingdom
+24-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,16.98,1,6,16.98,0.166667,2830,0,0,Rest of the World,United Kingdom,United Kingdom
+25-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,2.27,2,3,1.135,0.666667,756.666667,0,0,Rest of the World,United Kingdom,United Kingdom
+26-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,7.82,2,3,3.91,0.666667,2606.666667,0,0,Rest of the World,United Kingdom,United Kingdom
+27-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,1.3,1,3,1.3,0.333333,433.333333,0,0,Rest of the World,United Kingdom,United Kingdom
+05-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,24.790986,1,64,24.790986,0.015625,387.359156,0,0,Rest of the World,United Kingdom,United Kingdom
+06-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,22.81,2,177,11.405,0.011299,128.870056,0,0,Rest of the World,United Kingdom,United Kingdom
+07-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,60.2,3,136,20.066667,0.022059,442.647059,0,0,Rest of the World,United Kingdom,United Kingdom
+08-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,36.54,3,176,12.18,0.017045,207.613636,0,0,Rest of the World,United Kingdom,United Kingdom
+09-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,30.01,5,153,6.002,0.03268,196.143791,0,0,Rest of the World,United Kingdom,United Kingdom
+10-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,44.89,6,203,7.481667,0.029557,221.133005,0,0,Rest of the World,United Kingdom,United Kingdom
+12-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,74.56,2,61,37.28,0.032787,1222.295082,0,0,Rest of the World,United Kingdom,United Kingdom
+14-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,13.36879,2,87,6.684395,0.022989,153.664253,0,0,Rest of the World,United Kingdom,United Kingdom
+18-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,50.718334,3,213,16.906111,0.014085,238.114244,0,0,Rest of the World,United Kingdom,United Kingdom
+19-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,285.149935,9,518,31.683326,0.017375,550.4825,0,0,Rest of the World,United Kingdom,United Kingdom
+20-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,171.906605,7,454,24.558086,0.015419,378.64891,0,0,Rest of the World,United Kingdom,United Kingdom
+21-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,256.067947,7,500,36.581135,0.014,512.135894,0,0,Rest of the World,United Kingdom,United Kingdom
+22-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,258.5021,5,288,51.70042,0.017361,897.576736,0,0,Rest of the World,United Kingdom,United Kingdom
+23-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,186.201265,13,546,14.323174,0.02381,341.027958,0,0,Rest of the World,United Kingdom,United Kingdom
+24-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,117.26,3,168,39.086667,0.017857,697.97619,0,0,Rest of the World,United Kingdom,United Kingdom
+25-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,33.87,2,48,16.935,0.041667,705.625,0,0,Rest of the World,United Kingdom,United Kingdom
+26-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,12.489347,2,102,6.244674,0.019608,122.444578,0,0,Rest of the World,United Kingdom,United Kingdom
+27-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,3.48,3,56,1.16,0.053571,62.142857,0,0,Rest of the World,United Kingdom,United Kingdom
+05-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,108.46,2,4,54.23,0.5,27115,0,0,USA,United States,United States
+07-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,2.88,3,15,0.96,0.2,192,0,0,USA,United States,United States
+08-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,222.938596,3,9,74.312865,0.333333,24770.95511,0,0,USA,United States,United States
+09-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,225.7,10,28,22.57,0.357143,8060.714286,0,0,USA,United States,United States
+10-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,8.870762,10,22,0.887076,0.454545,403.216455,0,0,USA,United States,United States
+11-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,161.33,5,18,32.266,0.277778,8962.777778,0,0,USA,United States,United States
+12-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,67.78,2,6,33.89,0.333333,11296.66667,0,0,USA,United States,United States
+13-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,65.83,4,12,16.4575,0.333333,5485.833333,0,0,USA,United States,United States
+14-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,124.11,7,20,17.73,0.35,6205.5,0,0,USA,United States,United States
+15-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,559.804379,7,15,79.972054,0.466667,37320.29193,0,0,USA,United States,United States
+16-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,212.015657,8,39,26.501957,0.205128,5436.298897,1,25080,USA,United States,United States
+17-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,228.96,6,17,38.16,0.352941,13468.23529,0,0,USA,United States,United States
+18-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,16.3,9,22,1.811111,0.409091,740.909091,0,0,USA,United States,United States
+19-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,53.59,2,4,26.795,0.5,13397.5,0,0,USA,United States,United States
+20-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,618.42,7,18,88.345714,0.388889,34356.66667,0,0,USA,United States,United States
+21-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,471.87,2,9,235.935,0.222222,52430,0,0,USA,United States,United States
+22-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,180.133912,6,16,30.022319,0.375,11258.3695,0,0,USA,United States,United States
+23-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,471.87,7,28,67.41,0.25,16852.5,1,21500,USA,United States,United States
+24-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,196.22,4,19,49.055,0.210526,10327.36842,0,0,USA,United States,United States
+25-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,350.44,5,7,70.088,0.714286,50062.85714,0,0,USA,United States,United States
+26-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,539.12,6,13,89.853333,0.461538,41470.76923,0,0,USA,United States,United States
+27-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,99.23,2,4,49.615,0.5,24807.5,0,0,USA,United States,United States
+05-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,0.012409,2,238,0.006205,0.008403,0.052139,0,0,USA,United States,United States
+06-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,214.047036,8,784,26.75588,0.010204,273.019179,0,0,USA,United States,United States
+07-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,519.350897,16,619,32.459431,0.025848,839.015989,0,0,USA,United States,United States
+08-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,103.332358,8,823,12.916545,0.009721,125.555721,0,0,USA,United States,United States
+09-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,447.71,13,785,34.439231,0.016561,570.33121,0,0,USA,United States,United States
+10-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,583.81,24,1367,24.325417,0.017557,427.073884,0,0,USA,United States,United States
+11-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,929.88,21,1287,44.28,0.016317,722.517483,0,0,USA,United States,United States
+12-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,160.57,5,446,32.114,0.011211,360.022422,0,0,USA,United States,United States
+13-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,226.45,1,111,226.45,0.009009,2040.09009,0,0,USA,United States,United States
+14-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,746.65,14,469,53.332143,0.029851,1592.004264,0,0,USA,United States,United States
+15-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,37.460795,4,283,9.365199,0.014134,132.3703,0,0,USA,United States,United States
+16-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,14.05,3,341,4.683333,0.008798,41.202346,0,0,USA,United States,United States
+17-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,41.508256,1,358,41.508256,0.002793,115.944849,0,0,USA,United States,United States
+18-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,106.79931,10,764,10.679931,0.013089,139.789673,0,0,USA,United States,United States
+19-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,1421.281152,31,2027,45.847779,0.015294,701.174717,0,0,USA,United States,United States
+20-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,546.704698,16,1226,34.169044,0.013051,445.925529,0,0,USA,United States,United States
+21-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,366.687286,11,681,33.335208,0.016153,538.454164,0,0,USA,United States,United States
+22-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,538.029113,9,930,59.781013,0.009677,578.525928,0,0,USA,United States,United States
+23-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,629.679023,17,1270,37.039943,0.013386,495.810254,0,0,USA,United States,United States
+24-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,566.13,16,760,35.383125,0.021053,744.907895,0,0,USA,United States,United States
+25-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,65.18,3,140,21.726667,0.021429,465.571429,0,0,USA,United States,United States
+26-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,172.93,8,182,21.61625,0.043956,950.164835,0,0,USA,United States,United States
+27-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,408.33,3,45,136.11,0.066667,9074,0,0,USA,United States,United States
+12-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,0,0,73,,0,0,0,0,Rest of the World,Australia,Australia
+16-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,0,0,34,,0,0,0,0,Rest of the World,Canada,Canada
+04-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,0,0,1,,0,0,0,0,India,India,India
+01-08-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,0.01,0,1,,0,10,0,0,India,India,India
+15-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,0,0,51,,0,0,0,0,Rest of the World,Australia,Australia
+27-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,0,0,2,,0,0,0,0,Rest of the World,Australia,Australia
+21-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,0,0,2,,0,0,0,0,Rest of the World,United Kingdom,United Kingdom
+23-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,0,0,7,,0,0,0,0,Rest of the World,United Kingdom,United Kingdom
+13-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,20.506643,0,65,,0,315.486815,0,0,Rest of the World,Australia,Australia
+20-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,1.37,1,3,1.37,0.333333,456.666667,0,0,Rest of the World,Australia,Australia
+12-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,0,0,4,,0,0,0,0,Rest of the World,Australia,Australia
+27-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,0,0,17,,0,0,0,0,Rest of the World,Canada,Canada
+13-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,0,0,27,,0,0,0,0,Rest of the World,United Kingdom,United Kingdom
+25-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,0,0,6,,0,0,0,0,Rest of the World,Australia,Australia
+16-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,19.32792,0,86,,0,224.743256,0,0,Rest of the World,United Kingdom,United Kingdom
+06-08-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,0,0,9,,0,0,0,0,USA,United States,United States
+17-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,0,0,85,,0,0,0,0,Rest of the World,United Kingdom,United Kingdom
+04-08-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,0.830048,0,17,,0,48.826353,0,0,India,India,India
+15-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,0,0,106,,0,0,0,0,Rest of the World,United Kingdom,United Kingdom
+24-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,0,0,43,,0,0,0,0,Rest of the World,Australia,Australia
+11-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,0,0,172,,0,0,0,0,Rest of the World,United Kingdom,United Kingdom
+05-08-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,4.006612,0,54,,0,74.196519,0,0,Rest of the World,Canada,Canada
+01-04-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,667.890218,58,89,11.515349,0.651685,7504.384472,0,0,India,India,India
+02-04-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,335.222374,56,92,5.986114,0.608696,3643.721457,0.04,351.4355,India,India,India
+03-04-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,278.410491,32,65,8.700328,0.492308,4283.238323,0,0,India,India,India
+04-04-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,281.612242,48,68,5.866922,0.705882,4141.3565,0,0,India,India,India
+05-04-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,15.335337,24,39,0.638972,0.615385,393.213769,0,0,India,India,India
+06-04-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,390.209532,80,123,4.877619,0.650407,3172.43522,0,0,India,India,India
+07-04-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,862.065955,127,186,6.787921,0.682796,4634.763199,0,0,India,India,India
+08-04-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,1041.390873,147,233,7.084292,0.630901,4469.488725,0,0,India,India,India
+09-04-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,648.288552,200,313,3.241443,0.638978,2071.209431,0,0,India,India,India
+10-04-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,882.256371,245,325,3.601046,0.753846,2714.634988,0,0,India,India,India
+11-04-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,437.908889,174,233,2.516718,0.746781,1879.437292,0,0,India,India,India
+12-04-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,364.80941,163,229,2.238095,0.71179,1593.054192,0,0,India,India,India
+13-04-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,676.086258,123,186,5.496636,0.66129,3634.872355,0,0,India,India,India
+14-04-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,246.97152,95,135,2.5997,0.703704,1829.418667,0.04,351.4355,India,India,India
+15-04-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,111.531099,83,116,1.343748,0.715517,961.474991,0,0,India,India,India
+16-04-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,191.310971,73,118,2.620698,0.618644,1621.279415,0,0,India,India,India
+17-04-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,214.992089,76,108,2.828843,0.703704,1990.667491,1,6600,India,India,India
+18-04-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,262.934227,60,94,4.382237,0.638298,2797.172628,1,12870,India,India,India
+19-04-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,179.67695,68,122,2.642308,0.557377,1472.761885,0,0,India,India,India
+20-04-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,325.056004,60,94,5.4176,0.638298,3458.042596,0,0,India,India,India
+21-04-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,103.997809,42,86,2.476138,0.488372,1209.276849,0,0,India,India,India
+22-04-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,81.098233,36,57,2.252729,0.631579,1422.776018,0,0,India,India,India
+23-04-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,119.067165,40,79,2.976679,0.506329,1507.179304,7,97690,India,India,India
+24-04-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,23.240264,39,83,0.595904,0.46988,280.003181,3,29354.5,India,India,India
+25-04-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,599.090667,52,76,11.520974,0.684211,7882.771934,0,0,India,India,India
+26-04-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,581.095348,40,74,14.527384,0.540541,7852.639838,0,0,India,India,India
+27-04-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,754.689142,66,110,11.434684,0.6,6860.810382,0,0,India,India,India
+28-04-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,393.183551,45,72,8.737412,0.625,5460.882653,0.04,351.4355,India,India,India
+29-04-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,680.555735,37,62,18.393398,0.596774,10976.7054,0,0,India,India,India
+30-04-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,324.988866,43,78,7.557881,0.551282,4166.523923,0,0,India,India,India
+20-04-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,1002.709113,590,13937,1.699507,0.042333,71.945836,0,0,India,India,India
+21-04-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,973.615681,167,9195,5.830034,0.018162,105.885338,0,0,India,India,India
+22-04-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,1032.126389,119,6035,8.673331,0.019718,171.023428,0,0,India,India,India
+23-04-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,1001.419112,191,6644,5.243032,0.028748,150.725333,0,0,India,India,India
+24-04-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,1152.403078,275,1436,4.190557,0.191504,802.509107,13,220118.4,India,India,India
+25-04-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,230.994279,104,4286,2.221099,0.024265,53.895072,0,0,India,India,India
+26-04-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,1611.09291,400,18465,4.027732,0.021663,87.251173,0,0,India,India,India
+27-04-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,1133.310616,231,10986,4.906107,0.021027,103.159532,1,4200,India,India,India
+28-04-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,764.671744,237,10029,3.226463,0.023631,76.246061,0,0,India,India,India
+29-04-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,1117.78117,301,12528,3.713559,0.024026,89.222635,0,0,India,India,India
+30-04-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,903.566589,356,13123,2.538108,0.027128,68.853661,0.01,31.206,India,India,India
+26-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,3.11,3,7,1.036667,0.428571,444.285714,0,0,Rest of the World,Canada,Canada
+27-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,8.34,6,18,1.39,0.333333,463.333333,0,0,Rest of the World,Canada,Canada
+28-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,321.196464,11,28,29.199679,0.392857,11471.30229,1,10560,Rest of the World,Canada,Canada
+29-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,145.810641,17,29,8.577097,0.586207,5027.953138,0,0,Rest of the World,Canada,Canada
+30-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,170.608037,13,27,13.123695,0.481481,6318.816185,0,0,Rest of the World,Canada,Canada
+31-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,210.856843,8,23,26.357105,0.347826,9167.688826,0,0,Rest of the World,Canada,Canada
+28-05-2026,XYZ Luxury,Growify | Shopping Ads | All Product | EOSS,PAUSED,511.48,62,3318,8.249677,0.018686,154.153104,0,0,India,India,India
+29-05-2026,XYZ Luxury,Growify | Shopping Ads | All Product | EOSS,PAUSED,1013.51,126,7105,8.04373,0.017734,142.647431,0,0,India,India,India
+30-05-2026,XYZ Luxury,Growify | Shopping Ads | All Product | EOSS,PAUSED,1013.01,117,7096,8.658205,0.016488,142.757892,0,0,India,India,India
+31-05-2026,XYZ Luxury,Growify | Shopping Ads | All Product | EOSS,PAUSED,973.43,97,7845,10.035361,0.012365,124.082855,0,0,India,India,India
+01-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,109.716909,27,54,4.063589,0.5,2031.794611,0,0,India,India,India
+02-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,243.774773,51,86,4.779898,0.593023,2834.590384,0.04,351.44395,India,India,India
+03-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,331.214639,40,63,8.280366,0.634921,5257.375222,0,0,India,India,India
+04-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,291.570107,34,64,8.575591,0.53125,4555.782922,2,41300,India,India,India
+05-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,80.397962,37,88,2.172918,0.420455,913.613205,0,0,India,India,India
+06-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,171.17989,54,120,3.169998,0.45,1426.499083,1,7700,India,India,India
+07-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,101.228839,45,80,2.24953,0.5625,1265.360487,0,0,India,India,India
+08-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,32.964195,36,72,0.915672,0.5,457.836042,0,0,India,India,India
+09-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,69.783629,33,70,2.114655,0.471429,996.908986,0,0,India,India,India
+10-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,76.64782,36,77,2.129106,0.467532,995.426234,1,19470,India,India,India
+11-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,58.530753,42,81,1.393589,0.518519,722.601889,1,19250,India,India,India
+12-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,120.200647,34,67,3.535313,0.507463,1794.039507,0,0,India,India,India
+13-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,36.564076,39,74,0.93754,0.527027,494.109135,0,0,India,India,India
+14-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,215.717712,36,66,5.992159,0.545455,3268.450182,0,0,India,India,India
+15-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,14.742523,23,41,0.640979,0.560976,359.573732,0,0,India,India,India
+16-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,105.570328,21,37,5.027158,0.567568,2853.252108,0,0,India,India,India
+17-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,153.191088,31,55,4.941648,0.563636,2785.292509,1,10527,India,India,India
+18-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,178.560263,28,50,6.377152,0.56,3571.20526,1,5500,India,India,India
+19-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,121.585912,29,60,4.192618,0.483333,2026.431867,0,0,India,India,India
+20-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,31.88,24,51,1.328333,0.470588,625.098039,0.79,6692.81405,India,India,India
+21-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,98.507685,26,41,3.788757,0.634146,2402.626463,0.47,9974.36609,India,India,India
+22-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,130.08352,22,48,5.912887,0.458333,2710.073333,0,0,India,India,India
+23-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,60.756925,24,61,2.531539,0.393443,996.015164,0,0,India,India,India
+24-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,138.055328,37,72,3.731225,0.513889,1917.435111,0,0,India,India,India
+25-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,127.923407,39,75,3.280087,0.52,1705.645427,0,0,India,India,India
+26-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,82.268741,26,47,3.164182,0.553191,1750.398745,0,0,India,India,India
+27-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,88.463624,59,85,1.499383,0.694118,1040.748518,0,0,India,India,India
+28-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,191.591905,60,118,3.193198,0.508475,1623.660212,3,74980,India,India,India
+29-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,82.6925,56,102,1.476652,0.54902,810.710784,2,29807,India,India,India
+30-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,346.98438,58,105,5.982489,0.552381,3304.613143,0,0,India,India,India
+31-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,851.299647,46,170,18.506514,0.270588,5007.644982,0,0,India,India,India
+01-05-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,968.07602,311,9815,3.112785,0.031686,98.6323,0,0,India,India,India
+02-05-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,884.730798,284,13486,3.115249,0.021059,65.603648,0,0,India,India,India
+03-05-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,1163.832119,281,11759,4.141751,0.023897,98.973732,0,0,India,India,India
+04-05-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,853.234762,297,11409,2.872844,0.026032,74.786113,0,0,India,India,India
+05-05-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,944.984987,317,14473,2.981025,0.021903,65.292958,1,17550,India,India,India
+06-05-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,651.094717,219,9072,2.973035,0.02414,71.7697,0,0,India,India,India
+07-05-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,1466.707345,340,15002,4.313845,0.022664,97.767454,0,0,India,India,India
+08-05-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,928.031114,253,14473,3.668107,0.017481,64.121545,0,0,India,India,India
+09-05-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,1261.891239,209,10786,6.037757,0.019377,116.99344,0,0,India,India,India
+10-05-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,657.458401,152,7121,4.325384,0.021345,92.326696,0,0,India,India,India
+11-05-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,692.018067,104,4849,6.65402,0.021448,142.713563,1,18113.7,India,India,India
+12-05-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,673.880229,216,9893,3.119816,0.021834,68.116873,0,0,India,India,India
+13-05-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,574.568934,163,9105,3.524963,0.017902,63.10477,0,0,India,India,India
+14-05-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,675.264952,125,6175,5.40212,0.020243,109.354648,1,12870,India,India,India
+15-05-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,960.999531,152,6623,6.322365,0.02295,145.100337,0,0,India,India,India
+16-05-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,510.962503,181,8793,2.822997,0.020585,58.110145,0.39,2036.996716,India,India,India
+17-05-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,883.925386,162,7656,5.45633,0.02116,115.455249,0,0,India,India,India
+18-05-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,853.484332,32,1156,26.671385,0.027682,738.308246,0,0,India,India,India
+19-05-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,367.953995,115,4508,3.1996,0.02551,81.622448,1,67716,India,India,India
+20-05-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,357.510976,110,4322,3.2501,0.025451,82.718875,1,5750,India,India,India
+21-05-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,574.199438,128,4738,4.485933,0.027016,121.190257,0,0,India,India,India
+22-05-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,467.750585,172,7134,2.71948,0.02411,65.566384,0,0,India,India,India
+23-05-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,591.231938,86,4531,6.87479,0.01898,130.485972,0,0,India,India,India
+24-05-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,644.350629,90,5104,7.159451,0.017633,126.244245,0,0,India,India,India
+25-05-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,294.306538,102,4005,2.885358,0.025468,73.484779,0,0,India,India,India
+26-05-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,464.262053,145,7157,3.201807,0.02026,64.868248,0,0,India,India,India
+27-05-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,658.433471,115,6657,5.725508,0.017275,98.908438,0.01,208.072326,India,India,India
+28-05-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,371.877044,101,4779,3.681951,0.021134,77.814824,0.98,17442.21679,India,India,India
+29-05-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,946.886697,142,6990,6.668216,0.020315,135.463047,0,0,India,India,India
+30-05-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,1617.937648,116,9973,13.947738,0.011631,162.231791,0,0,India,India,India
+31-05-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,970.14401,113,6158,8.585345,0.01835,157.542061,1,61259.9,India,India,India
+25-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,0.96,1,2,0.96,0.5,480,0,0,USA,United States,United States
+26-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,2.87,2,3,1.435,0.666667,956.666667,0,0,USA,United States,United States
+27-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,184.332775,4,8,46.083194,0.5,23041.59688,0,0,USA,United States,United States
+28-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,935.145978,8,14,116.893247,0.571429,66796.14129,0,0,USA,United States,United States
+29-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,290.14,12,16,24.178333,0.75,18133.75,0,0,USA,United States,United States
+30-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,26.660025,7,11,3.808575,0.636364,2423.638636,0,0,USA,United States,United States
+31-05-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,1409.873564,7,13,201.410509,0.538462,108451.8126,0.53,11003.91831,USA,United States,United States
+01-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,542.28,2,6,271.14,0.333333,90380,0,0,Rest of the World,Australia,Australia
+04-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,32.4,3,8,10.8,0.375,4050,0,0,Rest of the World,Australia,Australia
+05-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,8.64,6,16,1.44,0.375,540,0,0,Rest of the World,Australia,Australia
+06-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,6.65,5,14,1.33,0.357143,475,0,0,Rest of the World,Australia,Australia
+07-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,4.859931,4,8,1.214983,0.5,607.491375,1,23280,Rest of the World,Australia,Australia
+08-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,1.33,1,4,1.33,0.25,332.5,0,0,Rest of the World,Australia,Australia
+09-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,1.33,1,2,1.33,0.5,665,0,0,Rest of the World,Australia,Australia
+10-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,82.79792,3,11,27.599307,0.272727,7527.083636,0,0,Rest of the World,Australia,Australia
+11-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,260.083856,5,12,52.016771,0.416667,21673.65467,0,0,Rest of the World,Australia,Australia
+12-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,5.32,4,9,1.33,0.444444,591.111111,0,0,Rest of the World,Australia,Australia
+15-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,4.05,3,4,1.35,0.75,1012.5,0,0,Rest of the World,Australia,Australia
+16-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,9.45,2,7,4.725,0.285714,1350,0,0,Rest of the World,Australia,Australia
+17-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,11.081074,4,10,2.770269,0.4,1108.1074,0,0,Rest of the World,Australia,Australia
+18-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,26.054868,4,11,6.513717,0.363636,2368.624364,0,0,Rest of the World,Australia,Australia
+19-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,10.203016,2,6,5.101508,0.333333,1700.502667,0,0,Rest of the World,Australia,Australia
+20-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,2.958184,3,6,0.986061,0.5,493.030667,0,0,Rest of the World,Australia,Australia
+22-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,4.138751,4,6,1.034688,0.666667,689.791833,0,0,Rest of the World,Australia,Australia
+23-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,20.10799,4,9,5.026998,0.444444,2234.221111,0,0,Rest of the World,Australia,Australia
+24-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,1.35,1,3,1.35,0.333333,450,0,0,Rest of the World,Australia,Australia
+25-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,1.35,1,1,1.35,1,1350,0,0,Rest of the World,Australia,Australia
+26-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,13.862105,5,11,2.772421,0.454545,1260.191364,0,0,Rest of the World,Australia,Australia
+27-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,18.88,3,8,6.293333,0.375,2360,0,0,Rest of the World,Australia,Australia
+28-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,412.81,4,7,103.2025,0.571429,58972.85714,0,0,Rest of the World,Australia,Australia
+29-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,71.06,6,12,11.843333,0.5,5921.666667,0,0,Rest of the World,Australia,Australia
+30-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,18.02,4,9,4.505,0.444444,2002.222222,0,0,Rest of the World,Australia,Australia
+04-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,196.58,10,892,19.658,0.011211,220.381166,0,0,Rest of the World,Australia,Australia
+05-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,118.73,5,114,23.746,0.04386,1041.491228,0,0,Rest of the World,Australia,Australia
+06-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,37.76,1,234,37.76,0.004274,161.367521,2,62546.4,Rest of the World,Australia,Australia
+09-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,20.46,2,51,10.23,0.039216,401.176471,0,0,Rest of the World,Australia,Australia
+11-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,63.7,7,141,9.1,0.049645,451.77305,0,0,Rest of the World,Australia,Australia
+12-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,0.01,1,49,0.01,0.020408,0.204082,0,0,Rest of the World,Australia,Australia
+13-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,7.8,1,26,7.8,0.038462,300,0,0,Rest of the World,Australia,Australia
+15-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,8.9,2,123,4.45,0.01626,72.357724,0,0,Rest of the World,Australia,Australia
+16-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,25.79,3,203,8.596667,0.014778,127.044335,0,0,Rest of the World,Australia,Australia
+17-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,120.33,5,435,24.066,0.011494,276.62069,0,0,Rest of the World,Australia,Australia
+18-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,325.09,16,571,20.318125,0.028021,569.334501,0,0,Rest of the World,Australia,Australia
+19-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,3.37,1,186,3.37,0.005376,18.11828,0,0,Rest of the World,Australia,Australia
+20-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,149.67,7,304,21.381429,0.023026,492.335526,0,0,Rest of the World,Australia,Australia
+22-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,81.42,3,179,27.14,0.01676,454.860335,0,0,Rest of the World,Australia,Australia
+23-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,33.42,6,298,5.57,0.020134,112.147651,0,0,Rest of the World,Australia,Australia
+24-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,148.27,6,362,24.711667,0.016575,409.585635,0,0,Rest of the World,Australia,Australia
+26-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,50.16,3,110,16.72,0.027273,456,0,0,Rest of the World,Australia,Australia
+27-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,134.7,7,190,19.242857,0.036842,708.947368,0,0,Rest of the World,Australia,Australia
+28-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,5.34,1,181,5.34,0.005525,29.502762,0,0,Rest of the World,Australia,Australia
+01-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,42.4,9,31,4.711111,0.290323,1367.741935,0,0,Rest of the World,Canada,Canada
+04-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,217.35,9,31,24.15,0.290323,7011.290323,0,0,Rest of the World,Canada,Canada
+05-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,231.44,10,31,23.144,0.322581,7465.806452,1,21450,Rest of the World,Canada,Canada
+06-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,204.54,10,29,20.454,0.344828,7053.103448,0,0,Rest of the World,Canada,Canada
+07-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,225.01,9,23,25.001111,0.391304,9783.043478,0,0,Rest of the World,Canada,Canada
+08-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,42.2,7,16,6.028571,0.4375,2637.5,0,0,Rest of the World,Canada,Canada
+09-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,2.797793,3,9,0.932598,0.333333,310.865889,0,0,Rest of the World,Canada,Canada
+10-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,877.416144,13,38,67.49355,0.342105,23089.89853,0,0,Rest of the World,Canada,Canada
+11-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,373.13,11,27,33.920909,0.407407,13819.62963,0,0,Rest of the World,Canada,Canada
+12-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,134.74,13,28,10.364615,0.464286,4812.142857,0,0,Rest of the World,Canada,Canada
+13-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,11.54,9,23,1.282222,0.391304,501.73913,0,0,Rest of the World,Canada,Canada
+14-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,41.235392,9,24,4.58171,0.375,1718.141333,0,0,Rest of the World,Canada,Canada
+15-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,121.794062,8,32,15.224258,0.25,3806.064437,0,0,Rest of the World,Canada,Canada
+16-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,103.68,8,18,12.96,0.444444,5760,0,0,Rest of the World,Canada,Canada
+17-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,87.26845,15,44,5.817897,0.340909,1983.373864,0,0,Rest of the World,Canada,Canada
+18-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,144.29,13,33,11.099231,0.393939,4372.424242,0,0,Rest of the World,Canada,Canada
+19-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,146.891092,17,40,8.640652,0.425,3672.2773,1,4165.92,Rest of the World,Canada,Canada
+20-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,648.01,12,35,54.000833,0.342857,18514.57143,0,0,Rest of the World,Canada,Canada
+21-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,270.58815,10,19,27.058815,0.526316,14241.48158,0,0,Rest of the World,Canada,Canada
+22-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,221.5,11,26,20.136364,0.423077,8519.230769,0,0,Rest of the World,Canada,Canada
+23-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,6.647312,5,9,1.329462,0.555556,738.590222,0,0,Rest of the World,Canada,Canada
+24-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,37.82,13,21,2.909231,0.619048,1800.952381,0,0,Rest of the World,Canada,Canada
+25-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,39.042337,14,28,2.788738,0.5,1394.369179,0,0,Rest of the World,Canada,Canada
+26-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,89.13,8,24,11.14125,0.333333,3713.75,0,0,Rest of the World,Canada,Canada
+27-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,296.357083,3,13,98.785694,0.230769,22796.69869,0,0,Rest of the World,Canada,Canada
+28-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,52.3,5,14,10.46,0.357143,3735.714286,0,0,Rest of the World,Canada,Canada
+29-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,208.88,16,41,13.055,0.390244,5094.634146,0.51,4913.80263,Rest of the World,Canada,Canada
+30-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,211.78,9,18,23.531111,0.5,11765.55556,0,0,Rest of the World,Canada,Canada
+01-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,168.195602,3,388,56.065201,0.007732,433.49382,0,0,Rest of the World,Canada,Canada
+04-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,407.69,10,734,40.769,0.013624,555.435967,0,0,Rest of the World,Canada,Canada
+05-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,215.25,7,420,30.75,0.016667,512.5,0,0,Rest of the World,Canada,Canada
+06-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,54.37,4,736,13.5925,0.005435,73.872283,0,0,Rest of the World,Canada,Canada
+07-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,166.07,6,279,27.678333,0.021505,595.232975,0,0,Rest of the World,Canada,Canada
+08-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,179.34,8,548,22.4175,0.014599,327.262774,1,43450,Rest of the World,Canada,Canada
+09-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,25.9,1,171,25.9,0.005848,151.461988,0,0,Rest of the World,Canada,Canada
+10-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,128.91,5,166,25.782,0.03012,776.566265,0,0,Rest of the World,Canada,Canada
+11-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,696.413825,9,260,77.379314,0.034615,2678.514712,0,0,Rest of the World,Canada,Canada
+12-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,371.11,2,399,185.555,0.005013,930.100251,0,0,Rest of the World,Canada,Canada
+13-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,360.1,6,167,60.016667,0.035928,2156.287425,0,0,Rest of the World,Canada,Canada
+14-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,12.39,1,85,12.39,0.011765,145.764706,0,0,Rest of the World,Canada,Canada
+15-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,197.46,7,495,28.208571,0.014141,398.909091,0,0,Rest of the World,Canada,Canada
+16-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,179.38,9,670,19.931111,0.013433,267.731343,0,0,Rest of the World,Canada,Canada
+17-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,185.92,7,691,26.56,0.01013,269.059334,0,0,Rest of the World,Canada,Canada
+18-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,173.356805,6,584,28.892801,0.010274,296.843844,0,0,Rest of the World,Canada,Canada
+19-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,333.3,9,400,37.033333,0.0225,833.25,0,0,Rest of the World,Canada,Canada
+20-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,1459.43,8,306,182.42875,0.026144,4769.379085,0,0,Rest of the World,Canada,Canada
+22-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,19.329695,4,161,4.832424,0.024845,120.060217,0,0,Rest of the World,Canada,Canada
+23-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,66.287989,2,159,33.143994,0.012579,416.905591,0,0,Rest of the World,Canada,Canada
+24-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,63.395815,3,407,21.131938,0.007371,155.763673,0,0,Rest of the World,Canada,Canada
+26-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,194.736575,6,163,32.456096,0.03681,1194.702914,0.16,1552.0626,Rest of the World,Canada,Canada
+27-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,10.395615,1,118,10.395615,0.008475,88.098432,0.16,1552.0626,Rest of the World,Canada,Canada
+28-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,79.623683,4,164,19.905921,0.02439,485.510262,0.16,1552.07217,Rest of the World,Canada,Canada
+29-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,366.658165,9,415,40.739796,0.021687,883.513651,0,0,Rest of the World,Canada,Canada
+30-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,65.91,4,245,16.4775,0.016327,269.020408,0,0,Rest of the World,Canada,Canada
+01-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,669.148726,73,176,9.166421,0.414773,3801.981398,1,7990,India,India,India
+02-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,1.73,1,2,1.73,0.5,865,0,0,India,India,India
+04-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,1052.795208,89,214,11.82916,0.415888,4919.603776,1,14200,India,India,India
+05-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,1613.448262,115,533,14.029985,0.21576,3027.107433,0,0,India,India,India
+06-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,842.868894,80,415,10.535861,0.192771,2031.009383,0.4,1320,India,India,India
+07-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,1136.338996,91,364,12.487242,0.25,3121.810429,2,24450,India,India,India
+08-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,355.322168,56,165,6.345039,0.339394,2153.467685,0.2,660,India,India,India
+09-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,593.984835,45,217,13.199663,0.207373,2737.257304,0,0,India,India,India
+10-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,1194.785648,66,305,18.102813,0.216393,3917.329993,1,2400,India,India,India
+11-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,972.367407,71,249,13.695316,0.285141,3905.089988,0,0,India,India,India
+12-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,996.622383,78,293,12.77721,0.266212,3401.44158,0,0,India,India,India
+13-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,815.226796,74,237,11.016578,0.312236,3439.775511,3,11631.92,India,India,India
+14-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,561.569721,62,137,9.057576,0.452555,4099.049058,1,13666,India,India,India
+15-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,644.010241,79,199,8.152028,0.396985,3236.232367,1,3366,India,India,India
+16-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,265.174933,89,155,2.979494,0.574194,1710.806019,2,13340,India,India,India
+17-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,471.044355,79,128,5.962587,0.617188,3680.034023,0,0,India,India,India
+18-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,264.579949,79,150,3.349113,0.526667,1763.866327,0,0,India,India,India
+19-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,780.568242,51,89,15.30526,0.573034,8770.429685,0,0,India,India,India
+20-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,353.085765,49,118,7.205832,0.415254,2992.252246,0,0,India,India,India
+21-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,185.585702,17,29,10.916806,0.586207,6399.506966,0,0,India,India,India
+22-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,329.240499,64,107,5.144383,0.598131,3077.014009,0,0,India,India,India
+23-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,499.248482,49,66,10.188745,0.742424,7564.370939,2.5,20682.96,India,India,India
+24-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,886.723521,92,151,9.638299,0.609272,5872.341199,0,0,India,India,India
+25-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,621.490784,60,115,10.35818,0.521739,5404.267687,0.5,3782.96,India,India,India
+26-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,1830.666151,72,119,25.425919,0.605042,15383.74917,1,5200,India,India,India
+27-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,364.998853,37,76,9.864834,0.486842,4802.616487,0,0,India,India,India
+28-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,316.493793,58,91,5.45679,0.637363,3477.953769,1,3400,India,India,India
+29-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,701.631287,92,176,7.626427,0.522727,3986.541403,1,21850,India,India,India
+30-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_India-12/12/25,ENABLED,382.523178,46,74,8.315721,0.621622,5169.232135,0,0,India,India,India
+01-07-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,578.208673,58,4182,9.969115,0.013869,138.26128,0,0,India,India,India
+04-07-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,1400.090876,62,4124,22.582111,0.015034,339.498273,0.16,2404.41,India,India,India
+05-07-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,1183.23239,244,10550,4.849313,0.023128,112.154729,0,0,India,India,India
+06-07-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,791.080745,110,5695,7.191643,0.019315,138.907945,0,0,India,India,India
+07-07-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,646.35622,137,6293,4.717929,0.02177,102.710348,1,2000,India,India,India
+08-07-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,766.153199,125,4728,6.129226,0.026438,162.045939,0,0,India,India,India
+09-07-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,628.731846,88,4867,7.14468,0.018081,129.182627,0.99,2968.794,India,India,India
+10-07-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,696.251802,110,5292,6.329562,0.020786,131.566856,0,0,India,India,India
+11-07-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,1064.431725,204,8465,5.217803,0.024099,125.745035,0,0,India,India,India
+12-07-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,730.942606,68,3238,10.749156,0.021001,225.738915,1,6261.75,India,India,India
+13-07-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,1455.899445,18,951,80.883303,0.018927,1530.914243,0,0,India,India,India
+14-07-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,133.761012,40,1813,3.344025,0.022063,73.778826,0,0,India,India,India
+15-07-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,776.05422,86,5334,9.023886,0.016123,145.49198,0.04,392.865825,India,India,India
+16-07-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,608.258217,67,2651,9.078481,0.025273,229.44482,0,0,India,India,India
+17-07-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,348.708817,54,2578,6.457571,0.020946,135.263311,0,0,India,India,India
+18-07-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,580.531523,70,3443,8.293307,0.020331,168.612118,0,12.7188,India,India,India
+19-07-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,560.374959,95,4094,5.898684,0.023205,136.877127,0.64,5803.181175,India,India,India
+20-07-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,336.465672,70,3497,4.806652,0.020017,96.21552,1,3587.2812,India,India,India
+21-07-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,89.989331,40,1580,2.249733,0.025316,56.955273,0,0,India,India,India
+22-07-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,951.432744,199,7891,4.781069,0.025219,120.571885,0,0,India,India,India
+23-07-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,664.990223,152,6334,4.374936,0.023997,104.987405,0,0,India,India,India
+24-07-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,570.202407,86,4128,6.630261,0.020833,138.130428,0,0,India,India,India
+25-07-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,519.663686,51,3029,10.189484,0.016837,171.562788,0,0,India,India,India
+26-07-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,337.797734,84,3813,4.021402,0.02203,88.591066,0.1,357.26823,India,India,India
+27-07-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,567.587492,145,4924,3.914396,0.029448,115.269596,0,0,India,India,India
+28-07-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,502.157692,131,4212,3.833265,0.031102,119.220725,2.01,7334.54704,India,India,India
+29-07-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,646.945417,82,4202,7.889578,0.019515,153.961308,0,0,India,India,India
+30-07-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,175.193985,40,1453,4.37985,0.027529,120.573975,1,3964.31046,India,India,India
+01-07-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,780.21201,158,8490,4.938051,0.01861,91.897763,0,0,India,India,India
+02-07-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,2.48,1,118,2.48,0.008475,21.016949,0,0,India,India,India
+04-07-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,1268.637843,251,12557,5.054334,0.019989,101.030329,0.88,15198.75,India,India,India
+05-07-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,1954.240233,313,16395,6.243579,0.019091,119.19733,0.39,78.8454,India,India,India
+06-07-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,1595.413013,426,21507,3.745101,0.019808,74.181104,0,0,India,India,India
+07-07-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,1486.356761,351,18172,4.234635,0.019315,81.793791,0,0,India,India,India
+08-07-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,680.061339,182,8791,3.736601,0.020703,77.358815,0,0,India,India,India
+09-07-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,1002.655829,312,15001,3.21364,0.020799,66.839266,1,11750,India,India,India
+10-07-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,1308.370617,382,17828,3.425054,0.021427,73.388525,0,0,India,India,India
+11-07-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,1233.655943,542,23129,2.276118,0.023434,53.338058,0,0,India,India,India
+12-07-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,1026.030494,566,22655,1.812775,0.024983,45.289362,0,0,India,India,India
+13-07-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,862.480339,341,14227,2.529268,0.023969,60.622783,0,0,India,India,India
+14-07-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,435.960616,188,9480,2.318939,0.019831,45.987407,0,0,India,India,India
+15-07-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,1470.622629,342,16714,4.300066,0.020462,87.987473,3,17820,India,India,India
+16-07-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,1106.012147,302,15044,3.662292,0.020074,73.518489,0.32,2878.953,India,India,India
+17-07-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,725.283457,176,8472,4.120929,0.020774,85.609473,0,0,India,India,India
+18-07-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,1187.664027,483,19082,2.458932,0.025312,62.240018,0,0,India,India,India
+19-07-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,850.853004,125,4585,6.806824,0.027263,185.573174,0,0,India,India,India
+20-07-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,228.374202,181,7566,1.261736,0.023923,30.184272,0,0,India,India,India
+21-07-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,243.915773,105,4705,2.323007,0.022317,51.841822,0,0,India,India,India
+22-07-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,752.583249,307,13376,2.451411,0.022952,56.2637,0,0,India,India,India
+23-07-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,832.191588,305,14143,2.728497,0.021565,58.841235,0,0,India,India,India
+24-07-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,516.518718,122,5044,4.23376,0.024187,102.402601,0,0,India,India,India
+25-07-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,356.935856,106,5034,3.367319,0.021057,70.905017,0,0,India,India,India
+26-07-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,346.983792,168,7377,2.06538,0.022773,47.035894,0,0,India,India,India
+27-07-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,677.516033,261,10791,2.595847,0.024187,62.785287,1,4999,India,India,India
+28-07-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,441.181148,180,8220,2.451006,0.021898,53.671673,0,0,India,India,India
+29-07-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,506.818298,122,6504,4.154248,0.018758,77.924093,0.02,77.715,India,India,India
+30-07-2026,XYZ Luxury,Growify_Performance Max_Listing_IND,ENABLED,459.939882,99,3775,4.645857,0.026225,121.838379,0.02,116.5875,India,India,India
+01-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,20.1,1,2,20.1,0.5,10050,0,0,Rest of the World,United Kingdom,United Kingdom
+04-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,219.95,3,6,73.316667,0.5,36658.33333,0,0,Rest of the World,United Kingdom,United Kingdom
+05-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,43.23,1,4,43.23,0.25,10807.5,0,0,Rest of the World,United Kingdom,United Kingdom
+06-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,36.95,4,12,9.2375,0.333333,3079.166667,1,12931.6,Rest of the World,United Kingdom,United Kingdom
+07-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,22.92,4,6,5.73,0.666667,3820,0,0,Rest of the World,United Kingdom,United Kingdom
+08-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,1.28,1,4,1.28,0.25,320,0,0,Rest of the World,United Kingdom,United Kingdom
+09-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,261.83,2,6,130.915,0.333333,43638.33333,0,0,Rest of the World,United Kingdom,United Kingdom
+10-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,145.85,7,20,20.835714,0.35,7292.5,0,0,Rest of the World,United Kingdom,United Kingdom
+11-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,43.46,3,10,14.486667,0.3,4346,0,0,Rest of the World,United Kingdom,United Kingdom
+12-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,2.56,2,4,1.28,0.5,640,0,0,Rest of the World,United Kingdom,United Kingdom
+13-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,199.390862,5,10,39.878172,0.5,19939.0862,0,0,Rest of the World,United Kingdom,United Kingdom
+14-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,340.087008,5,18,68.017402,0.277778,18893.72267,0,0,Rest of the World,United Kingdom,United Kingdom
+15-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,9.06,7,17,1.294286,0.411765,532.941176,0,0,Rest of the World,United Kingdom,United Kingdom
+16-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,57.28,2,9,28.64,0.222222,6364.444444,0,0,Rest of the World,United Kingdom,United Kingdom
+17-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,322.46,6,19,53.743333,0.315789,16971.57895,0,0,Rest of the World,United Kingdom,United Kingdom
+18-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,79.598557,6,21,13.266426,0.285714,3790.407476,0,0,Rest of the World,United Kingdom,United Kingdom
+19-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,50.53,4,10,12.6325,0.4,5053,0,0,Rest of the World,United Kingdom,United Kingdom
+20-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,348.54,3,18,116.18,0.166667,19363.33333,0,0,Rest of the World,United Kingdom,United Kingdom
+22-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,91.449839,5,9,18.289968,0.555556,10161.09322,0,0,Rest of the World,United Kingdom,United Kingdom
+23-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,12.840979,3,5,4.280326,0.6,2568.1958,0,0,Rest of the World,United Kingdom,United Kingdom
+24-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,15.43,3,5,5.143333,0.6,3086,0,0,Rest of the World,United Kingdom,United Kingdom
+25-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,29.28548,6,10,4.880913,0.6,2928.548,0,0,Rest of the World,United Kingdom,United Kingdom
+26-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,66.093013,7,12,9.441859,0.583333,5507.751083,0,0,Rest of the World,United Kingdom,United Kingdom
+27-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,35.99,3,5,11.996667,0.6,7198,0,0,Rest of the World,United Kingdom,United Kingdom
+28-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,11.47,3,6,3.823333,0.5,1911.666667,0,0,Rest of the World,United Kingdom,United Kingdom
+29-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,45.090318,5,14,9.018064,0.357143,3220.737,0,0,Rest of the World,United Kingdom,United Kingdom
+30-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,2.56,1,2,2.56,0.5,1280,0,0,Rest of the World,United Kingdom,United Kingdom
+01-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,176.99,8,593,22.12375,0.013491,298.46543,0,0,Rest of the World,United Kingdom,United Kingdom
+04-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,97.17,4,781,24.2925,0.005122,124.417414,0,0,Rest of the World,United Kingdom,United Kingdom
+05-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,28.97,2,560,14.485,0.003571,51.732143,0,0,Rest of the World,United Kingdom,United Kingdom
+06-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,113.59,5,292,22.718,0.017123,389.006849,0,0,Rest of the World,United Kingdom,United Kingdom
+07-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,10.03,1,105,10.03,0.009524,95.52381,0,0,Rest of the World,United Kingdom,United Kingdom
+08-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,12.32,2,67,6.16,0.029851,183.880597,0,0,Rest of the World,United Kingdom,United Kingdom
+09-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,39.89,3,225,13.296667,0.013333,177.288889,0,0,Rest of the World,United Kingdom,United Kingdom
+10-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,104.91,4,231,26.2275,0.017316,454.155844,0,0,Rest of the World,United Kingdom,United Kingdom
+11-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,24.88,2,301,12.44,0.006645,82.657807,0,0,Rest of the World,United Kingdom,United Kingdom
+14-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,46.61,2,156,23.305,0.012821,298.782051,0,0,Rest of the World,United Kingdom,United Kingdom
+15-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,86.273573,2,389,43.136787,0.005141,221.782964,0,0,Rest of the World,United Kingdom,United Kingdom
+16-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,48.161259,4,273,12.040315,0.014652,176.414868,0,0,Rest of the World,United Kingdom,United Kingdom
+17-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,103.52,7,378,14.788571,0.018519,273.862434,0,0,Rest of the World,United Kingdom,United Kingdom
+18-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,129.53602,5,562,25.907204,0.008897,230.491139,0,0,Rest of the World,United Kingdom,United Kingdom
+19-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,132.63,4,284,33.1575,0.014085,467.007042,0,0,Rest of the World,United Kingdom,United Kingdom
+20-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,63.33,3,302,21.11,0.009934,209.701987,0,0,Rest of the World,United Kingdom,United Kingdom
+21-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,25.55,1,30,25.55,0.033333,851.666667,0,0,Rest of the World,United Kingdom,United Kingdom
+22-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,48.32,4,163,12.08,0.02454,296.441718,0,0,Rest of the World,United Kingdom,United Kingdom
+23-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,21.02,2,242,10.51,0.008264,86.859504,0,0,Rest of the World,United Kingdom,United Kingdom
+24-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,56.77,3,423,18.923333,0.007092,134.208038,0,0,Rest of the World,United Kingdom,United Kingdom
+25-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,30.72,3,90,10.24,0.033333,341.333333,0,0,Rest of the World,United Kingdom,United Kingdom
+26-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,68.69,2,152,34.345,0.013158,451.907895,0,0,Rest of the World,United Kingdom,United Kingdom
+27-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,38.74,6,192,6.456667,0.03125,201.770833,0,0,Rest of the World,United Kingdom,United Kingdom
+28-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,123.22,4,220,30.805,0.018182,560.090909,0,0,Rest of the World,United Kingdom,United Kingdom
+30-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,50.65,3,138,16.883333,0.021739,367.028986,0,0,Rest of the World,United Kingdom,United Kingdom
+01-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,441.972647,15,33,29.464843,0.454545,13393.11052,0,0,USA,United States,United States
+04-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,4.403581,5,18,0.880716,0.277778,244.643389,0,0,USA,United States,United States
+05-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,58.14,8,20,7.2675,0.4,2907,0,0,USA,United States,United States
+06-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,280.54,11,30,25.503636,0.366667,9351.333333,0,0,USA,United States,United States
+07-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,5.75,6,28,0.958333,0.214286,205.357143,0,0,USA,United States,United States
+08-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,136.78,7,29,19.54,0.241379,4716.551724,0,0,USA,United States,United States
+09-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,1119.4,3,6,373.133333,0.5,186566.6667,0,0,USA,United States,United States
+10-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,248,12,36,20.666667,0.333333,6888.888889,0,0,USA,United States,United States
+11-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,578.63,2,14,289.315,0.142857,41330.71429,0,0,USA,United States,United States
+12-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,356.141872,5,16,71.228374,0.3125,22258.867,0,0,USA,United States,United States
+13-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,291.11,8,36,36.38875,0.222222,8086.388889,0,0,USA,United States,United States
+14-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,782.56,9,22,86.951111,0.409091,35570.90909,0,0,USA,United States,United States
+15-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,232.96,7,19,33.28,0.368421,12261.05263,0,0,USA,United States,United States
+16-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,427.384948,8,25,53.423119,0.32,17095.39792,0,0,USA,United States,United States
+17-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,278.37,9,29,30.93,0.310345,9598.965517,0,0,USA,United States,United States
+18-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,196.45,9,30,21.827778,0.3,6548.333333,0,0,USA,United States,United States
+19-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,856.562912,7,26,122.36613,0.269231,32944.72739,1,34770,USA,United States,United States
+20-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,182.184315,7,26,26.026331,0.269231,7007.089038,0,0,USA,United States,United States
+21-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,26.96,2,6,13.48,0.333333,4493.333333,0,0,USA,United States,United States
+22-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,11.776452,8,22,1.472057,0.363636,535.293273,0,0,USA,United States,United States
+23-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,9.807034,9,20,1.08967,0.45,490.3517,1,4320,USA,United States,United States
+24-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,5.82,6,12,0.97,0.5,485,1,4165.92,USA,United States,United States
+25-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,273.33,10,18,27.333,0.555556,15185,0,0,USA,United States,United States
+26-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,44.46,8,18,5.5575,0.444444,2470,0,0,USA,United States,United States
+27-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,3.87,2,6,1.935,0.333333,645,0,0,USA,United States,United States
+28-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,3.84,2,12,1.92,0.166667,320,0,0,USA,United States,United States
+29-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,3.84,4,12,0.96,0.333333,320,0,0,USA,United States,United States
+01-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,664.05,19,1468,34.95,0.012943,452.350136,0,0,USA,United States,United States
+04-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,1298.042621,27,2437,48.075653,0.011079,532.639565,0,0,USA,United States,United States
+05-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,1722.032859,22,2024,78.274221,0.01087,850.806749,0.5,6600,USA,United States,United States
+06-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,994.31,17,1668,58.488824,0.010192,596.109113,0,0,USA,United States,United States
+07-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,723.54,19,1287,38.081053,0.014763,562.191142,0,0,USA,United States,United States
+08-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,571.86,13,1272,43.989231,0.01022,449.575472,0.5,6600,USA,United States,United States
+09-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,148.88,5,556,29.776,0.008993,267.769784,0,0,USA,United States,United States
+10-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,1325.34,9,1048,147.26,0.008588,1264.637405,0.12,8263.819654,USA,United States,United States
+11-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,756.32,16,1607,47.27,0.009956,470.640946,0,0,USA,United States,United States
+12-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,595.15,17,1262,35.008824,0.013471,471.59271,0,0,USA,United States,United States
+13-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,583.88,16,936,36.4925,0.017094,623.803419,0,0,USA,United States,United States
+14-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,214.73,6,408,35.788333,0.014706,526.29902,0,0,USA,United States,United States
+15-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,551.43,16,1279,34.464375,0.01251,431.141517,0,0,USA,United States,United States
+16-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,300.2,13,1919,23.092308,0.006774,156.435644,0,0,USA,United States,United States
+17-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,1590.06,43,2908,36.97814,0.014787,546.788171,0,0,USA,United States,United States
+18-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,485.83,17,2053,28.578235,0.008281,236.643936,0,0,USA,United States,United States
+19-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,676.16,21,1760,32.198095,0.011932,384.181818,0,0,USA,United States,United States
+20-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,164.65,9,1308,18.294444,0.006881,125.879205,0,0,USA,United States,United States
+21-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,143,5,188,28.6,0.026596,760.638298,0,0,USA,United States,United States
+22-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,426.52,10,1028,42.652,0.009728,414.902724,0,0,USA,United States,United States
+23-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,721.74,14,830,51.552857,0.016867,869.566265,0,0,USA,United States,United States
+24-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,1073.2,12,1350,89.433333,0.008889,794.962963,0,0,USA,United States,United States
+25-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,1319.43,6,390,219.905,0.015385,3383.153846,0.88,57874.78035,USA,United States,United States
+26-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,212.81,10,436,21.281,0.022936,488.09633,0,0,USA,United States,United States
+27-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,110.06,6,676,18.343333,0.008876,162.810651,0,0,USA,United States,United States
+28-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,527.59,13,683,40.583846,0.019034,772.459736,0,0,USA,United States,United States
+29-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,229.938006,14,813,16.424143,0.01722,282.826576,0,0,USA,United States,United States
+30-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,80.539459,5,476,16.107892,0.010504,169.200544,0,0,USA,United States,United States
+01-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,0,0,49,,0,0,0,0,Rest of the World,Australia,Australia
+07-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,0,0,75,,0,0,0,0,Rest of the World,Australia,Australia
+14-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,0,0,50,,0,0,0,0,Rest of the World,Australia,Australia
+29-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,0,0,201,,0,0,0,0,Rest of the World,Australia,Australia
+02-07-2026,XYZ Luxury,Growify_P.max_HP_EOSS_Ind,ENABLED,0,0,8,,0,0,0,0,India,India,India
+13-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,0,0,119,,0,0,0,0,Rest of the World,United Kingdom,United Kingdom
+14-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,0,0,2,,0,0,0,0,Rest of the World,Australia,Australia
+02-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,0,0,2,,0,0,0,0,Rest of the World,United Kingdom,United Kingdom
+25-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,0,0,71,,0,0,0,0,Rest of the World,Canada,Canada
+30-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,0,0,5,,0,0,0,0,USA,United States,United States
+13-07-2026,XYZ Luxury,Growify_XYZ LuxuryP_Search_INT-5/21/26,ENABLED,0,0,6,,0,0,0,0,Rest of the World,Australia,Australia
+02-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,0,0,7,,0,0,0,0,USA,United States,United States
+29-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,0,0,240,,0,0,0,0,Rest of the World,United Kingdom,United Kingdom
+12-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,6.5,1,131,6.5,0.007634,49.618321,0,0,Rest of the World,United Kingdom,United Kingdom
+21-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,0,0,17,,0,0,0,0,Rest of the World,Australia,Australia
+21-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,0,0,25,,0,0,0,0,Rest of the World,Canada,Canada
+25-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,0,0,27,,0,0,0,0,Rest of the World,Australia,Australia
+10-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,0,0,36,,0,0,0,0,Rest of the World,Australia,Australia
+08-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,0,0,45,,0,0,0,0,Rest of the World,Australia,Australia
+30-07-2026,XYZ Luxury,Growify_Performance Max_Listing_INTL,ENABLED,0,0,189,,0,0,0,0,Rest of the World,Australia,Australia
